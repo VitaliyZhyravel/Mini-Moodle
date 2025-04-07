@@ -3,8 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\\u0441onfigurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:\u0441onfigurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\domain\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\domain\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\domain\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\domain\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\domain\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\domain\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\domain\\grade .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\domain\\grade .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\domain\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\domain\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\databasecontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:databasecontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\mini-moodle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:mini-moodle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\identity\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\identity\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\mini-moodle.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:mini-moodle.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +66,192 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\\u0421onfigurations\\CourseConfiguration.cs",
+              "RelativeDocumentMoniker": "\u0421onfigurations\\CourseConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\\u0421onfigurations\\CourseConfiguration.cs",
+              "RelativeToolTip": "\u0421onfigurations\\CourseConfiguration.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:33:11.668Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Grade .cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Grade .cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Grade .cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Grade .cs",
+              "RelativeToolTip": "Models\\Domain\\Grade .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:30:36.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Submission.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Submission.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Submission.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Submission.cs",
+              "RelativeToolTip": "Models\\Domain\\Submission.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:30:19.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Course.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Course.cs",
+              "RelativeToolTip": "Models\\Domain\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:29:34.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Assignment.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Assignment.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Assignment.cs",
+              "RelativeToolTip": "Models\\Domain\\Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:30:05.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Lesson.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Lesson.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Lesson.cs",
+              "RelativeToolTip": "Models\\Domain\\Lesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:29:43.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\Identity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:16:11.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\DatabaseContext\\DbContext.cs",
+              "RelativeDocumentMoniker": "DatabaseContext\\DbContext.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\DatabaseContext\\DbContext.cs",
+              "RelativeToolTip": "DatabaseContext\\DbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:16:32.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mini-Moodle",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Mini-Moodle.csproj",
+              "RelativeDocumentMoniker": "Mini-Moodle.csproj",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Mini-Moodle.csproj",
+              "RelativeToolTip": "Mini-Moodle.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T18:13:11.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Identity\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Models\\Identity\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Identity\\ApplicationRole.cs",
+              "RelativeToolTip": "Models\\Identity\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:17:58.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T08:12:41.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T08:20:50.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mini-Moodle.http",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Mini-Moodle.http",
+              "RelativeDocumentMoniker": "Mini-Moodle.http",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Mini-Moodle.http",
+              "RelativeToolTip": "Mini-Moodle.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-06T08:20:46.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T08:20:25.099Z",
               "EditorCaption": ""
             }
           ]
