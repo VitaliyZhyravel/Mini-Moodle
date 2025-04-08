@@ -1,19 +1,22 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Mini_Moodle.Models.Domain
 {
     public class Lesson
     {
         public Guid Id { get; set; }
+        [MaxLength(40)]
         public string Title { get; set; }
         public string VideoUrl { get; set; }
         [NotMapped]
         public IFormFile File { get; set; }
+        [MaxLength(200)]
         public string? Description { get; set; }
 
         public Guid CourseId { get; set; }
         public Course Course { get; set; }
 
-        public ICollection<Assignment> Assignments { get; set; }
+        public List<Assignment> Assignments { get; set; }
     }
 }

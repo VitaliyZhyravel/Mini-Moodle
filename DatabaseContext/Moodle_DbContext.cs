@@ -2,12 +2,14 @@
 using Microsoft.EntityFrameworkCore;
 using Mini_Moodle.Models.Domain;
 using Mini_Moodle.Models.Identity;
+using Mini_Moodle.Сonfigurations;
+using System.Reflection;
 
 namespace Mini_Moodle.DatabaseContext
 {
-    public class DbContext : IdentityDbContext<ApplicationUser,ApplicationRole,Guid>
+    public class Moodle_DbContext : IdentityDbContext<ApplicationUser,ApplicationRole,Guid>
     {
-        public DbContext(DbContextOptions<DbContext> options) : base(options)
+        public Moodle_DbContext(DbContextOptions options) : base(options)
         {
         }
 
@@ -20,7 +22,7 @@ namespace Mini_Moodle.DatabaseContext
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
-
+            builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         }
 
     }
