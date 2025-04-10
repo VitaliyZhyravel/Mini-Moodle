@@ -4,6 +4,6 @@ namespace Mini_Moodle.Authentication
 {
     public interface IJwtTokenGenerator
     {
-        string GenerateToken(ApplicationUser user, List<string> roles);
+        string GenerateToken(ApplicationUser user, IList<string> roles);
     }
 }

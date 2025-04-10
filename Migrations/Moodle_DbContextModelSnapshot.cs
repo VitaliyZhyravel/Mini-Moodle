@@ -298,6 +298,12 @@ namespace Mini_Moodle.Migrations
                         },
                         new
                         {
+                            Id = new Guid("66701dba-3c42-4997-a788-12c2ee8dd384"),
+                            Name = "User",
+                            NormalizedName = "USER"
+                        },
+                        new
+                        {
                             Id = new Guid("42331567-9bd0-44df-a3ed-c41342e65298"),
                             Name = "Student",
                             NormalizedName = "STUDENT"

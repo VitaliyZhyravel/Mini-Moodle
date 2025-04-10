@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini-Moodle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd838963ef4237791f47b74eafd4b21ab3643171")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d8cfd235cb1957efcd9a79a8092a16fbfa0cd32")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini-Moodle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini-Moodle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

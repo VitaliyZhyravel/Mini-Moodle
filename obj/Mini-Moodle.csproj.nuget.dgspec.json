@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vital\\OneDrive\\Рабочий стол\\Mini-Moodle\\Mini-Moodle.csproj": {}
+    "C:\\Users\\ДІАНА\\Desktop\\Mini-Moodle\\Mini-Moodle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vital\\OneDrive\\Рабочий стол\\Mini-Moodle\\Mini-Moodle.csproj": {
+    "C:\\Users\\ДІАНА\\Desktop\\Mini-Moodle\\Mini-Moodle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vital\\OneDrive\\Рабочий стол\\Mini-Moodle\\Mini-Moodle.csproj",
+        "projectUniqueName": "C:\\Users\\ДІАНА\\Desktop\\Mini-Moodle\\Mini-Moodle.csproj",
         "projectName": "Mini-Moodle",
-        "projectPath": "C:\\Users\\vital\\OneDrive\\Рабочий стол\\Mini-Moodle\\Mini-Moodle.csproj",
-        "packagesPath": "C:\\Users\\vital\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vital\\OneDrive\\Рабочий стол\\Mini-Moodle\\obj\\",
+        "projectPath": "C:\\Users\\ДІАНА\\Desktop\\Mini-Moodle\\Mini-Moodle.csproj",
+        "packagesPath": "C:\\Users\\ДІАНА\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ДІАНА\\Desktop\\Mini-Moodle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vital\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ДІАНА\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,31 +60,35 @@
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[9.0.3, )"
+              "version": "[9.0.4, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.3, )"
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.1.0, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[9.0.3, )"
+              "version": "[9.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.3, )"
+              "version": "[9.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.3, )"
+              "version": "[9.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.3, )"
+              "version": "[9.0.4, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -110,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

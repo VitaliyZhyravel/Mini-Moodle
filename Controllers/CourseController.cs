@@ -1,7 +1,10 @@
 ﻿using MediatR;
+using Microsoft.AspNetCore.Authentication.BearerToken;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Mini_Moodle.Filters;
-using Mini_Moodle.Models.Dto;
+        using Mini_Moodle.Models.Dto;
 using Mini_Moodle.Repositories.Courses.Queries;
 
 namespace Mini_Moodle.Controllers
@@ -17,6 +20,7 @@ namespace Mini_Moodle.Controllers
             this.mediator = mediator;
         }
 
+        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admin")]
         [TypeFilter(typeof(ActionFilterValidateQueryParameters))]
         [HttpGet]
         public async Task<ActionResult<List<CourseResponseDto>>> GetAll([FromQuery] string? filterBy = null, [FromQuery] string? filterOn = null,
