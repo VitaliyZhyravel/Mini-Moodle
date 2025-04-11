@@ -7,10 +7,11 @@ using Microsoft.AspNetCore.Mvc;
 using Mini_Moodle.Models.Dto;
 using Mini_Moodle.Repositories.Accounts.Command;
 
-namespace Mini_Moodle.Controllers
+namespace Mini_Moodle.Controllers.v1
 {
-    [Route("api/[controller]")]
+    [Route("api/v{version:apiVersion}/[controller]")]
     [ApiController]
+    [ApiVersion("1.0")]
     public class AccountController : ControllerBase
     {
         private readonly IMediator mediator;
@@ -19,7 +20,7 @@ namespace Mini_Moodle.Controllers
         {
             this.mediator = mediator;
         }
-
+        
         [AllowAnonymous]
         [HttpPost("Register")]
         public async Task<IActionResult> Register([FromBody] RegisterRequestDto request)

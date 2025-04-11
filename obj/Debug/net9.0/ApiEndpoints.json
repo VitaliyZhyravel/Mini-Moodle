@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "Mini_Moodle.Controllers.AccountController",
+    "ContainingType": "Mini_Moodle.Controllers.v1.AccountController",
     "Method": "Login",
-    "RelativePath": "api/Account/Login",
+    "RelativePath": "api/v1/Account/Login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -16,9 +16,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Mini_Moodle.Controllers.AccountController",
+    "ContainingType": "Mini_Moodle.Controllers.v1.AccountController",
     "Method": "Logout",
-    "RelativePath": "api/Account/Logout",
+    "RelativePath": "api/v1/Account/Logout",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -26,9 +26,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Mini_Moodle.Controllers.AccountController",
+    "ContainingType": "Mini_Moodle.Controllers.v1.AccountController",
     "Method": "Register",
-    "RelativePath": "api/Account/Register",
+    "RelativePath": "api/v1/Account/Register",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -42,9 +42,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Mini_Moodle.Controllers.CourseController",
+    "ContainingType": "Mini_Moodle.Controllers.v1.CourseController",
     "Method": "GetAll",
-    "RelativePath": "api/Course",
+    "RelativePath": "api/v2/Course",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

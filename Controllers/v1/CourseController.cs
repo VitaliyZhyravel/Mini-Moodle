@@ -4,13 +4,14 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Mini_Moodle.Filters;
-        using Mini_Moodle.Models.Dto;
+using Mini_Moodle.Models.Dto;
 using Mini_Moodle.Repositories.Courses.Queries;
 
-namespace Mini_Moodle.Controllers
+namespace Mini_Moodle.Controllers.v1
 {
-    [Route("api/[controller]")]
+    [Route("api/v{version:apiVersion}/[controller]")]
     [ApiController]
+    [ApiVersion("2.0")]
     public class CourseController : ControllerBase
     {
         private readonly IMediator mediator;
@@ -20,7 +21,8 @@ namespace Mini_Moodle.Controllers
             this.mediator = mediator;
         }
 
-        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admin")]
+       
+        //[Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admin")]
         [TypeFilter(typeof(ActionFilterValidateQueryParameters))]
         [HttpGet]
         public async Task<ActionResult<List<CourseResponseDto>>> GetAll([FromQuery] string? filterBy = null, [FromQuery] string? filterOn = null,

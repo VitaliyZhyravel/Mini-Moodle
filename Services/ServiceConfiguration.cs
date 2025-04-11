@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Authentication.BearerToken;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ApiExplorer;
+using Microsoft.AspNetCore.Mvc.Versioning;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Mini_Moodle.Authentication;
@@ -14,7 +16,7 @@ namespace Mini_Moodle.ApiServices
 {
     static public class ServiceConfiguration
     {
-        public static void ConfigureServices(this IServiceCollection services,WebApplicationBuilder builder)
+        public static void ConfigureServices(this IServiceCollection services, WebApplicationBuilder builder)
         {
             services.AddControllers();
 
@@ -27,7 +29,25 @@ namespace Mini_Moodle.ApiServices
 
             services.AddEndpointsApiExplorer();
 
-            services.AddSwaggerGen();
+            services.AddSwaggerGen(options =>
+            {
+                var provider = services.BuildServiceProvider().GetRequiredService<IApiVersionDescriptionProvider>();
+
+                foreach (var description in provider.ApiVersionDescriptions)
+                {
+                    options.SwaggerDoc(description.GroupName, new Microsoft.OpenApi.Models.OpenApiInfo
+                    {
+                        Title = "Mini-MoodleApi",
+                        Version = description.ApiVersion.ToString()
+                    });
+                }
+            });
+
+            services.AddVersionedApiExplorer(options =>
+            {
+                options.GroupNameFormat = "'v'VVV"; // Формат групування версій (наприклад, v1, v2)
+                options.SubstituteApiVersionInUrl = true; // Замінювати версію в URL
+            });
 
             services.AddMediatR(cfg =>
             {
@@ -47,7 +67,7 @@ namespace Mini_Moodle.ApiServices
               .AddDefaultTokenProviders();
 
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-                .AddJwtBearer(options => 
+                .AddJwtBearer(options =>
                 {
                     options.TokenValidationParameters = new TokenValidationParameters
                     {
@@ -72,6 +92,14 @@ namespace Mini_Moodle.ApiServices
             services.AddAuthorization();
             services.AddScoped<IJwtTokenGenerator, JwtTokenGenerator>();
             services.AddHttpContextAccessor();
+
+            services.AddApiVersioning(options =>
+            {
+                options.ApiVersionReader = new UrlSegmentApiVersionReader();
+                options.DefaultApiVersion = new ApiVersion(1, 0);
+                options.AssumeDefaultVersionWhenUnspecified = true;
+                options.ReportApiVersions = true;
+            });
         }
     }
 }
