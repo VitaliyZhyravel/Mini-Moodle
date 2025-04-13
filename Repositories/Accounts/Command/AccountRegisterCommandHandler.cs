@@ -1,11 +1,13 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Mini_Moodle.DatabaseContext;
+using Mini_Moodle.Exceptions;
 using Mini_Moodle.Models.Identity;
 
 namespace Mini_Moodle.Repositories.Accounts.Command
 {
-    public class AccountRegisterCommandHandler : IRequestHandler<AccountRegisterCommand, string?>
+    public class AccountRegisterCommandHandler : IRequestHandler<AccountRegisterCommand, OperationResult<string>>
     {
         private readonly Moodle_DbContext dbContext;
         private readonly UserManager<ApplicationUser> userManager;
@@ -15,11 +17,11 @@ namespace Mini_Moodle.Repositories.Accounts.Command
             this.dbContext = dbContext;
             this.userManager = userManager;
         }
-        public async Task<string?> Handle(AccountRegisterCommand request, CancellationToken cancellationToken)
+        public async Task<OperationResult<string>> Handle(AccountRegisterCommand request, CancellationToken cancellationToken)
         {
             if (await userManager.FindByEmailAsync(request.registerRequest.Email) != null)
             {
-                return "This Email is alredy used";
+                return OperationResult<string>.Failure("This Email is alredy used");
             }
             var newUser = new ApplicationUser
             {
@@ -28,22 +30,22 @@ namespace Mini_Moodle.Repositories.Accounts.Command
                 PhoneNumber = request.registerRequest.PhoneNumber
             };
 
-            var isFirstUser = dbContext.Users.Any();
+            var isFirstUser = await  dbContext.Users.AnyAsync(cancellationToken);
 
             var result = await userManager.CreateAsync(newUser, request.registerRequest.Password);
 
-            if (!result.Succeeded) 
+            if (!result.Succeeded)
             {
-                return "Something goes wrong";
+                return OperationResult<string>.Failure("Something goes wrong");
             }
-            
+
             var resultRole = isFirstUser ? await userManager.AddToRoleAsync(newUser, "User") : await userManager.AddToRoleAsync(newUser, "Admin");
 
             if (!resultRole.Succeeded)
             {
-                return "Something goes wrong";
+                return OperationResult<string>.Failure("Something goes wrong");
             }
-            return "Registration successful";
+            return OperationResult<string>.Success("Registration successful");
         }
     }
 }

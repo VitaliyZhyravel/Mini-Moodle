@@ -356,3 +356,5 @@ C:\Users\vital\OneDrive\Рабочий стол\Mini-Moodle\obj\Debug\net9.0\ref
 C:\Users\vital\OneDrive\Рабочий стол\Mini-Moodle\obj\Debug\net9.0\Mini-Moodle.pdb
 C:\Users\vital\OneDrive\Рабочий стол\Mini-Moodle\obj\Debug\net9.0\Mini-Moodle.genruntimeconfig.cache
 C:\Users\vital\OneDrive\Рабочий стол\Mini-Moodle\obj\Debug\net9.0\ref\Mini-Moodle.dll
+C:\Users\ДІАНА\Desktop\Mini-Moodle\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\ДІАНА\Desktop\Mini-Moodle\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll

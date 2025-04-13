@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc.ApiExplorer;
 using Mini_Moodle.ApiServices;
+using Mini_Moodle.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,12 @@ if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
 }
+else
+{
+    app.UseExeptionMiddleware();
+}
+
+app.UseHttpLogging();
 
 app.UseSwagger();
 app.UseSwaggerUI(options =>

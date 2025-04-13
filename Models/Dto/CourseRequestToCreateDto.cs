@@ -1,13 +1,12 @@
 ﻿using Mini_Moodle.Models.Domain;
+using System.ComponentModel.DataAnnotations;
 
 namespace Mini_Moodle.Models.Dto;
 
-public class CourseResponseDto
+public class CourseRequestToCreateDto
 {
-    public Guid Id { get; set; }
+    [MaxLength(40)]
     public string Title { get; set; }
+    [MaxLength(200)]
     public string? Description { get; set; }
-    public DateTime CreatedAt { get; set; }
-
-    public List<Lesson>? Lessons { get; set; }
 }

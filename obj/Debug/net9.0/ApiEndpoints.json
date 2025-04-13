@@ -44,7 +44,7 @@
   {
     "ContainingType": "Mini_Moodle.Controllers.v1.CourseController",
     "Method": "GetAll",
-    "RelativePath": "api/v2/Course",
+    "RelativePath": "api/v1/Course",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -83,6 +83,58 @@
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.List\u00601[[Mini_Moodle.Models.Dto.CourseResponseDto, Mini-Moodle, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Mini_Moodle.Controllers.v1.CourseController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Course",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Mini_Moodle.Models.Dto.CourseRequestToCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Mini_Moodle.Models.Dto.CourseResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Mini_Moodle.Controllers.v1.CourseController",
+    "Method": "GetByid",
+    "RelativePath": "api/v1/Course/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Mini_Moodle.Models.Dto.CourseResponseDto",
         "MediaTypes": [
           "text/plain",
           "application/json",

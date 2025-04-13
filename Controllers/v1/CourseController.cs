@@ -1,17 +1,17 @@
 ﻿using MediatR;
-using Microsoft.AspNetCore.Authentication.BearerToken;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Mini_Moodle.Filters;
 using Mini_Moodle.Models.Dto;
+using Mini_Moodle.Repositories.Courses.Commands;
 using Mini_Moodle.Repositories.Courses.Queries;
 
 namespace Mini_Moodle.Controllers.v1
 {
     [Route("api/v{version:apiVersion}/[controller]")]
     [ApiController]
-    [ApiVersion("2.0")]
+    [ApiVersion("1.0")]
     public class CourseController : ControllerBase
     {
         private readonly IMediator mediator;
@@ -21,8 +21,7 @@ namespace Mini_Moodle.Controllers.v1
             this.mediator = mediator;
         }
 
-       
-        //[Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admin")]
+        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admin,Student,Teacher")]
         [TypeFilter(typeof(ActionFilterValidateQueryParameters))]
         [HttpGet]
         public async Task<ActionResult<List<CourseResponseDto>>> GetAll([FromQuery] string? filterBy = null, [FromQuery] string? filterOn = null,
@@ -33,11 +32,42 @@ namespace Mini_Moodle.Controllers.v1
                 var query = new CourseGetAllQuery(filterBy, filterOn, sortBy, isAscending, pageNumber, pageSize);
                 var result = await mediator.Send(query);
 
-                return result;
+                return result.IsSuccess ? Ok(result.Data) : BadRequest(result.ErrorMessage);
             }
             catch (Exception ex)
             {
-                throw new Exception("An error occurred while retrieving the courses.", ex.InnerException);
+                return BadRequest($"An error occurred while retrieving the courses {ex.InnerException?.Message}");
+            }
+        }
+        [HttpGet("{Id:guid}")]
+        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admin,Student,Teacher")]
+        public async Task<ActionResult<CourseResponseDto>> GetByid([FromRoute] Guid Id) 
+        {
+            try
+            {
+                var query = new CourseGetByIdQuery(Id);
+                var result = await mediator.Send(query);
+
+                return result.IsSuccess ? Ok(result.Data) : BadRequest(result.ErrorMessage);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest($"An error occurred while retrieving the course {ex.InnerException?.Message}");
+            }
+        }
+        [HttpPost]
+        public async Task<ActionResult<CourseResponseDto>> Create([FromBody] CourseRequestToCreateDto request) 
+        {
+            try
+            {
+                var query = new CourseCreateCommand(request);
+                var result = await mediator.Send(query);
+
+                return result.IsSuccess ? Ok(result.Data) : BadRequest(result.ErrorMessage);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest($"An error occurred while retrieving the course {ex.InnerException?.Message}");
             }
         }
     }

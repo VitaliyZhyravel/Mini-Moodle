@@ -18,8 +18,6 @@ namespace Mini_Moodle.ApiServices
     {
         public static void ConfigureServices(this IServiceCollection services, WebApplicationBuilder builder)
         {
-            services.AddControllers();
-
             services.AddDbContext<Moodle_DbContext>(options =>
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
@@ -47,6 +45,14 @@ namespace Mini_Moodle.ApiServices
             {
                 options.GroupNameFormat = "'v'VVV"; // Формат групування версій (наприклад, v1, v2)
                 options.SubstituteApiVersionInUrl = true; // Замінювати версію в URL
+            });
+
+            services.AddApiVersioning(options =>
+            {
+                options.ApiVersionReader = new UrlSegmentApiVersionReader();
+                options.DefaultApiVersion = new ApiVersion(1, 0);
+                options.AssumeDefaultVersionWhenUnspecified = true;
+                options.ReportApiVersions = true;
             });
 
             services.AddMediatR(cfg =>
@@ -90,16 +96,14 @@ namespace Mini_Moodle.ApiServices
                     };
                 });
             services.AddAuthorization();
-            services.AddScoped<IJwtTokenGenerator, JwtTokenGenerator>();
+
             services.AddHttpContextAccessor();
 
-            services.AddApiVersioning(options =>
-            {
-                options.ApiVersionReader = new UrlSegmentApiVersionReader();
-                options.DefaultApiVersion = new ApiVersion(1, 0);
-                options.AssumeDefaultVersionWhenUnspecified = true;
-                options.ReportApiVersions = true;
-            });
+            services.AddScoped<IJwtTokenGenerator, JwtTokenGenerator>();
+
+            services.AddControllers();
+
+            services.AddHttpLogging();
         }
     }
 }

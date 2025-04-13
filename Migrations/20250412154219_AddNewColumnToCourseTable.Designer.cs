@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Mini_Moodle.DatabaseContext;
 
@@ -11,9 +12,11 @@ using Mini_Moodle.DatabaseContext;
 namespace Mini_Moodle.Migrations
 {
     [DbContext(typeof(Moodle_DbContext))]
-    partial class Moodle_DbContextModelSnapshot : ModelSnapshot
+    [Migration("20250412154219_AddNewColumnToCourseTable")]
+    partial class AddNewColumnToCourseTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

@@ -20,7 +20,7 @@ namespace Mini_Moodle.Controllers.v1
         {
             this.mediator = mediator;
         }
-        
+
         [AllowAnonymous]
         [HttpPost("Register")]
         public async Task<IActionResult> Register([FromBody] RegisterRequestDto request)
@@ -30,11 +30,11 @@ namespace Mini_Moodle.Controllers.v1
                 var query = new AccountRegisterCommand(request);
                 var result = await mediator.Send(query);
 
-                return Ok(result);
+                return result.IsSuccess ? Ok(result.Data) : BadRequest(result.ErrorMessage);
             }
             catch (Exception ex)
             {
-                throw new Exception("An error occurred while Registered", ex.InnerException);
+                return BadRequest($"An error occurred while Registered {ex.InnerException} ");
             }
         }
 
@@ -47,11 +47,11 @@ namespace Mini_Moodle.Controllers.v1
                 var query = new AccountLoginCommand(request);
                 var result = await mediator.Send(query);
 
-                return Ok(result);
+                return result.IsSuccess ? Ok(result.Data) : BadRequest(result.ErrorMessage);
             }
             catch (Exception ex)
             {
-                throw new Exception("An error occurred while logging in.", ex.InnerException);
+                return BadRequest(($"An error occurred while logging in {ex.InnerException?.Message}"));
             }
         }
 
@@ -66,7 +66,7 @@ namespace Mini_Moodle.Controllers.v1
             }
             catch (Exception ex)
             {
-                throw new Exception("An error occurred while logging out.", ex.InnerException);
+                return BadRequest($"An error occurred while logging out  {ex.InnerException?.Message}");
             }
         }
     }

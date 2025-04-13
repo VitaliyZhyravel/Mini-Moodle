@@ -9,6 +9,8 @@ namespace Mini_Moodle.Automapper
         public AutomapperProfiles()
         {
            CreateMap<Course,CourseResponseDto>().ReverseMap();
+            CreateMap<Course,CourseRequestToCreateDto>().ReverseMap();
+            CreateMap<CourseResponseUpdateDto,Course>().ReverseMap();
         }
     }
 }

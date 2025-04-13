@@ -2,12 +2,13 @@
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Mini_Moodle.DatabaseContext;
+using Mini_Moodle.Exceptions;
 using Mini_Moodle.Models.Domain;
 using Mini_Moodle.Models.Dto;
 
 namespace Mini_Moodle.Repositories.Courses.Queries
 {
-    public class CourseGetAllQueryHandler : IRequestHandler<CourseGetAllQuery, List<CourseResponseDto>>
+    public class CourseGetAllQueryHandler : IRequestHandler<CourseGetAllQuery, OperationResult<List<CourseResponseDto>>>
     {
         private readonly Moodle_DbContext dbContext;
         private readonly IMapper mapper;
@@ -18,7 +19,7 @@ namespace Mini_Moodle.Repositories.Courses.Queries
             this.mapper = mapper;
         }
 
-        public async Task<List<CourseResponseDto>> Handle(CourseGetAllQuery request, CancellationToken cancellationToken)
+        public async Task<OperationResult<List<CourseResponseDto>>> Handle(CourseGetAllQuery request, CancellationToken cancellationToken)
         {
             List<Course>? allCourses = await dbContext.Courses
                 .AsNoTracking()
@@ -55,7 +56,9 @@ namespace Mini_Moodle.Repositories.Courses.Queries
             //Paging
             allCourses = allCourses.Skip((request.pageNumber - 1) * request.pageSize).Take(request.pageSize).ToList();
 
-           return mapper.Map<List<CourseResponseDto>>(allCourses);
+          var courseDto =  mapper.Map<List<CourseResponseDto>>(allCourses);
+
+            return OperationResult<List<CourseResponseDto>>.Success(courseDto);
         }
     }
 }
