@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc.ApiExplorer;
+using Microsoft.AspNetCore.StaticFiles;
 using Mini_Moodle.ApiServices;
 using Mini_Moodle.Middleware;
 
@@ -18,6 +19,18 @@ else
 }
 
 app.UseHttpLogging();
+
+app.UseStaticFiles(new StaticFileOptions
+{
+    ContentTypeProvider = new FileExtensionContentTypeProvider
+    {
+        Mappings =
+        {
+            [".mp4"] = "video/mp4",
+        }
+    }
+});
+
 
 app.UseSwagger();
 app.UseSwaggerUI(options =>

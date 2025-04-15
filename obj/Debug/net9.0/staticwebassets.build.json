@@ -1,12 +1,125 @@
 {
   "Version": 1,
-  "Hash": "0dyPd/2DyN2mYZymzzirQKbt/IbcS/VvFXOKQBKUu3A=",
+  "Hash": "keUgqzmAlMkjt0QzIVEgPnzl0e14QjYrUKdY+FgiE6g=",
   "Source": "Mini-Moodle",
   "BasePath": "_content/Mini-Moodle",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mini-Moodle\\wwwroot",
+      "Source": "Mini-Moodle",
+      "ContentRoot": "C:\\Users\\vital\\OneDrive\\Рабочий стол\\Mini-Moodle\\wwwroot\\",
+      "BasePath": "_content/Mini-Moodle",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\vital\\OneDrive\\Рабочий стол\\Mini-Moodle\\wwwroot\\Videos\\devenv_0yy3cRjsl2.mp4",
+      "SourceId": "Mini-Moodle",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vital\\OneDrive\\Рабочий стол\\Mini-Moodle\\wwwroot\\",
+      "BasePath": "_content/Mini-Moodle",
+      "RelativePath": "Videos/devenv_0yy3cRjsl2#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3485gpoywx",
+      "Integrity": "U8xZgn56Z10fJmSdEOsKCEDWOIQtlt8zo25r+obzlwQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Videos\\devenv_0yy3cRjsl2.mp4"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Videos/devenv_0yy3cRjsl2.3485gpoywx.mp4",
+      "AssetFile": "C:\\Users\\vital\\OneDrive\\Рабочий стол\\Mini-Moodle\\wwwroot\\Videos\\devenv_0yy3cRjsl2.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2647950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U8xZgn56Z10fJmSdEOsKCEDWOIQtlt8zo25r+obzlwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 12:27:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3485gpoywx"
+        },
+        {
+          "Name": "label",
+          "Value": "Videos/devenv_0yy3cRjsl2.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U8xZgn56Z10fJmSdEOsKCEDWOIQtlt8zo25r+obzlwQ="
+        }
+      ]
+    },
+    {
+      "Route": "Videos/devenv_0yy3cRjsl2.mp4",
+      "AssetFile": "C:\\Users\\vital\\OneDrive\\Рабочий стол\\Mini-Moodle\\wwwroot\\Videos\\devenv_0yy3cRjsl2.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2647950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U8xZgn56Z10fJmSdEOsKCEDWOIQtlt8zo25r+obzlwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 12:27:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U8xZgn56Z10fJmSdEOsKCEDWOIQtlt8zo25r+obzlwQ="
+        }
+      ]
+    }
+  ]
 }

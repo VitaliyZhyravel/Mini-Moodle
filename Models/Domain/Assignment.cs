@@ -6,7 +6,7 @@ namespace Mini_Moodle.Models.Domain
     public class Assignment
     {
         public Guid Id { get; set; }
-        [MaxLength(40)]
+        [MaxLength(100)]
         public string Title { get; set; }
         [MaxLength(200)]
         public string? Description { get; set; }

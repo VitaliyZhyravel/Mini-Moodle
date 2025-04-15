@@ -6,7 +6,7 @@ namespace Mini_Moodle.Models.Domain
     public class Lesson
     {
         public Guid Id { get; set; }
-        [MaxLength(40)]
+        [MaxLength(100)]
         public string Title { get; set; }
         public string VideoUrl { get; set; }
         [NotMapped]

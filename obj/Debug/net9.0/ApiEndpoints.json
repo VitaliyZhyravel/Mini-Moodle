@@ -1,5 +1,46 @@
 [
   {
+    "ContainingType": "Mini_Moodle.Controllers.v1.LessonController",
+    "Method": "Create",
+    "RelativePath": "api/Lesson",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CourseId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Mini_Moodle.Models.Dto.Lessons.LessonResponseToCreateUpdateDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Mini_Moodle.Controllers.v1.AccountController",
     "Method": "Login",
     "RelativePath": "api/v1/Account/Login",
@@ -8,8 +49,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "request",
-        "Type": "Mini_Moodle.Models.Dto.LoginRequestDto",
+        "Name": "userRequest",
+        "Type": "Mini_Moodle.Models.Dto.Account.LoginRequestDto",
         "IsRequired": true
       }
     ],
@@ -34,8 +75,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "request",
-        "Type": "Mini_Moodle.Models.Dto.RegisterRequestDto",
+        "Name": "userRequest",
+        "Type": "Mini_Moodle.Models.Dto.Account.RegisterRequestDto",
         "IsRequired": true
       }
     ],
@@ -82,7 +123,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[Mini_Moodle.Models.Dto.CourseResponseDto, Mini-Moodle, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[Mini_Moodle.Models.Dto.Course.CourseResponseDto, Mini-Moodle, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -101,14 +142,14 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "request",
-        "Type": "Mini_Moodle.Models.Dto.CourseRequestToCreateDto",
+        "Name": "userRequest",
+        "Type": "Mini_Moodle.Models.Dto.Course.CourseRequestToCreateDto",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Mini_Moodle.Models.Dto.CourseResponseDto",
+        "Type": "Mini_Moodle.Models.Dto.Course.CourseResponseDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -120,7 +161,7 @@
   },
   {
     "ContainingType": "Mini_Moodle.Controllers.v1.CourseController",
-    "Method": "GetByid",
+    "Method": "GetById",
     "RelativePath": "api/v1/Course/{Id}",
     "HttpMethod": "GET",
     "IsController": true,
@@ -134,7 +175,64 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Mini_Moodle.Models.Dto.CourseResponseDto",
+        "Type": "Mini_Moodle.Models.Dto.Course.CourseResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Mini_Moodle.Controllers.v1.CourseController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Course/{Id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "userRequest",
+        "Type": "Mini_Moodle.Models.Dto.Course.CourseRequestToUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Mini_Moodle.Models.Dto.Course.CourseResponseCreateUpdateDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Mini_Moodle.Controllers.v1.CourseController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Course/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Mini_Moodle.Models.Dto.Course.CourseResponseDto",
         "MediaTypes": [
           "text/plain",
           "application/json",

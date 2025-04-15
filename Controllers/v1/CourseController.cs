@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Mini_Moodle.Filters;
-using Mini_Moodle.Models.Dto;
+using Mini_Moodle.Models.Dto.Course;
 using Mini_Moodle.Repositories.Courses.Commands;
 using Mini_Moodle.Repositories.Courses.Queries;
 
@@ -36,12 +36,13 @@ namespace Mini_Moodle.Controllers.v1
             }
             catch (Exception ex)
             {
-                return BadRequest($"An error occurred while retrieving the courses {ex.InnerException?.Message}");
+                return BadRequest($"Exeption Message : {ex.Message}\nInner exception: {ex.InnerException?.Message}");
             }
         }
+
         [HttpGet("{Id:guid}")]
         [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admin,Student,Teacher")]
-        public async Task<ActionResult<CourseResponseDto>> GetByid([FromRoute] Guid Id) 
+        public async Task<ActionResult<CourseResponseDto>> GetById([FromRoute] Guid Id)
         {
             try
             {
@@ -52,22 +53,53 @@ namespace Mini_Moodle.Controllers.v1
             }
             catch (Exception ex)
             {
-                return BadRequest($"An error occurred while retrieving the course {ex.InnerException?.Message}");
+                return BadRequest($"Exeption Message : {ex.Message}\nInner exception: {ex.InnerException?.Message}");
             }
         }
+
         [HttpPost]
-        public async Task<ActionResult<CourseResponseDto>> Create([FromBody] CourseRequestToCreateDto request) 
+        public async Task<ActionResult<CourseResponseDto>> Create([FromBody] CourseRequestToCreateDto userRequest)
         {
             try
             {
-                var query = new CourseCreateCommand(request);
+                var query = new CourseCreateCommand(userRequest);
                 var result = await mediator.Send(query);
 
+                return result.IsSuccess ? CreatedAtAction(nameof(GetById), new { Id = result.Data.Id }, result.Data) : BadRequest(result.ErrorMessage);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest($"Exeption Message : {ex.Message}\nInner exception: {ex.InnerException?.Message}");
+            }
+        }
+
+        [HttpPut("{Id:guid}")]
+        public async Task<ActionResult<CourseResponseCreateUpdateDto>> Update([FromRoute] Guid Id, [FromBody] CourseRequestToUpdateDto userRequest)
+        {
+            try
+            {
+                var query = new CourseUpdateCommand(Id, userRequest);
+                var result = await mediator.Send(query);
                 return result.IsSuccess ? Ok(result.Data) : BadRequest(result.ErrorMessage);
             }
             catch (Exception ex)
             {
-                return BadRequest($"An error occurred while retrieving the course {ex.InnerException?.Message}");
+                return BadRequest($"Exeption Message : {ex.Message}\nInner exception: {ex.InnerException?.Message}");
+            }
+        }
+
+        [HttpDelete("{Id:guid}")]
+        public async Task<ActionResult<CourseResponseDto>> Delete([FromRoute] Guid Id) 
+        {
+            try
+            {
+                var query = new CourseDeleteCommand(Id);
+                var result = await mediator.Send(query);
+                return result.IsSuccess ? Ok(result.Data) : BadRequest(result.ErrorMessage);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest($"Exeption Message : {ex.Message}\nInner exception: {ex.InnerException?.Message}");
             }
         }
     }

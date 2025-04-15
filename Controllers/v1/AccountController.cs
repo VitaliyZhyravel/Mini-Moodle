@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Mini_Moodle.Models.Dto;
+using Mini_Moodle.Models.Dto.Account;
 using Mini_Moodle.Repositories.Accounts.Command;
 
 namespace Mini_Moodle.Controllers.v1
@@ -23,35 +23,35 @@ namespace Mini_Moodle.Controllers.v1
 
         [AllowAnonymous]
         [HttpPost("Register")]
-        public async Task<IActionResult> Register([FromBody] RegisterRequestDto request)
+        public async Task<IActionResult> Register([FromBody] RegisterRequestDto userRequest)
         {
             try
             {
-                var query = new AccountRegisterCommand(request);
+                var query = new AccountRegisterCommand(userRequest);
                 var result = await mediator.Send(query);
 
                 return result.IsSuccess ? Ok(result.Data) : BadRequest(result.ErrorMessage);
             }
             catch (Exception ex)
             {
-                return BadRequest($"An error occurred while Registered {ex.InnerException} ");
+                return BadRequest($"Exeption Message : {ex.Message}\nInner exception: {ex.InnerException?.Message}");
             }
         }
 
         [AllowAnonymous]
         [HttpPost("Login")]
-        public async Task<IActionResult> Login([FromBody] LoginRequestDto request)
+        public async Task<IActionResult> Login([FromBody] LoginRequestDto userRequest)
         {
             try
             {
-                var query = new AccountLoginCommand(request);
+                var query = new AccountLoginCommand(userRequest);
                 var result = await mediator.Send(query);
 
                 return result.IsSuccess ? Ok(result.Data) : BadRequest(result.ErrorMessage);
             }
             catch (Exception ex)
             {
-                return BadRequest(($"An error occurred while logging in {ex.InnerException?.Message}"));
+                return BadRequest($"Exeption Message : {ex.Message}\nInner exception: {ex.InnerException?.Message}");
             }
         }
 
@@ -66,7 +66,7 @@ namespace Mini_Moodle.Controllers.v1
             }
             catch (Exception ex)
             {
-                return BadRequest($"An error occurred while logging out  {ex.InnerException?.Message}");
+                return BadRequest($"Exeption Message : {ex.Message}\nInner exception: {ex.InnerException?.Message}");
             }
         }
     }

@@ -250,6 +250,177 @@
             }
           }
         }
+      },
+      "put": {
+        "tags": [
+          "Course"
+        ],
+        "parameters": [
+          {
+            "name": "Id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CourseRequestToUpdateDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CourseRequestToUpdateDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CourseRequestToUpdateDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/CourseResponseCreateUpdateDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CourseResponseCreateUpdateDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CourseResponseCreateUpdateDto"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Course"
+        ],
+        "parameters": [
+          {
+            "name": "Id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/CourseResponseDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CourseResponseDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CourseResponseDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Lesson": {
+      "post": {
+        "tags": [
+          "Lesson"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "CourseId",
+                  "Description",
+                  "File",
+                  "Title"
+                ],
+                "type": "object",
+                "properties": {
+                  "Title": {
+                    "maxLength": 100,
+                    "type": "string"
+                  },
+                  "File": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "Description": {
+                    "maxLength": 200,
+                    "type": "string"
+                  },
+                  "CourseId": {
+                    "type": "string",
+                    "format": "uuid"
+                  }
+                }
+              },
+              "encoding": {
+                "Title": {
+                  "style": "form"
+                },
+                "File": {
+                  "style": "form"
+                },
+                "Description": {
+                  "style": "form"
+                },
+                "CourseId": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/LessonResponseToCreateUpdateDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/LessonResponseToCreateUpdateDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/LessonResponseToCreateUpdateDto"
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -263,7 +434,7 @@
             "format": "uuid"
           },
           "title": {
-            "maxLength": 40,
+            "maxLength": 100,
             "type": "string",
             "nullable": true
           },
@@ -294,7 +465,7 @@
             "format": "uuid"
           },
           "title": {
-            "maxLength": 40,
+            "maxLength": 100,
             "type": "string",
             "nullable": true
           },
@@ -307,6 +478,11 @@
             "type": "string",
             "format": "date"
           },
+          "createdBy": {
+            "maxLength": 40,
+            "type": "string",
+            "nullable": true
+          },
           "lessons": {
             "type": "array",
             "items": {
@@ -318,15 +494,81 @@
         "additionalProperties": false
       },
       "CourseRequestToCreateDto": {
+        "required": [
+          "createdBy",
+          "description",
+          "title"
+        ],
         "type": "object",
         "properties": {
           "title": {
+            "maxLength": 100,
+            "minLength": 1,
+            "type": "string"
+          },
+          "description": {
+            "maxLength": 200,
+            "minLength": 1,
+            "type": "string"
+          },
+          "createdBy": {
             "maxLength": 40,
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CourseRequestToUpdateDto": {
+        "required": [
+          "createdBy",
+          "description",
+          "title"
+        ],
+        "type": "object",
+        "properties": {
+          "title": {
+            "maxLength": 100,
+            "minLength": 1,
+            "type": "string"
+          },
+          "description": {
+            "maxLength": 200,
+            "minLength": 1,
+            "type": "string"
+          },
+          "createdAt": {
+            "type": "string",
+            "format": "date"
+          },
+          "createdBy": {
+            "maxLength": 40,
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CourseResponseCreateUpdateDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "title": {
             "type": "string",
             "nullable": true
           },
           "description": {
-            "maxLength": 200,
+            "type": "string",
+            "nullable": true
+          },
+          "createdAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "createdBy": {
             "type": "string",
             "nullable": true
           }
@@ -352,6 +594,10 @@
             "type": "string",
             "format": "date-time"
           },
+          "createdBy": {
+            "type": "string",
+            "nullable": true
+          },
           "lessons": {
             "type": "array",
             "items": {
@@ -370,7 +616,7 @@
             "format": "uuid"
           },
           "title": {
-            "maxLength": 40,
+            "maxLength": 100,
             "type": "string",
             "nullable": true
           },
@@ -400,6 +646,28 @@
             "items": {
               "$ref": "#/components/schemas/Assignment"
             },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "LessonResponseToCreateUpdateDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "videoUrl": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
             "nullable": true
           }
         },

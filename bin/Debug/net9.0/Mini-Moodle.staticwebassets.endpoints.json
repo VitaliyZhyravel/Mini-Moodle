@@ -1,5 +1,88 @@
 {
   "Version": 1,
   "ManifestType": "Build",
-  "Endpoints": []
+  "Endpoints": [
+    {
+      "Route": "Videos/devenv_0yy3cRjsl2.3485gpoywx.mp4",
+      "AssetFile": "Videos/devenv_0yy3cRjsl2.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2647950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U8xZgn56Z10fJmSdEOsKCEDWOIQtlt8zo25r+obzlwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 12:27:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3485gpoywx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U8xZgn56Z10fJmSdEOsKCEDWOIQtlt8zo25r+obzlwQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Videos/devenv_0yy3cRjsl2.mp4"
+        }
+      ]
+    },
+    {
+      "Route": "Videos/devenv_0yy3cRjsl2.mp4",
+      "AssetFile": "Videos/devenv_0yy3cRjsl2.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2647950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U8xZgn56Z10fJmSdEOsKCEDWOIQtlt8zo25r+obzlwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 12:27:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U8xZgn56Z10fJmSdEOsKCEDWOIQtlt8zo25r+obzlwQ="
+        }
+      ]
+    }
+  ]
 }
