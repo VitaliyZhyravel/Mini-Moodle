@@ -225,8 +225,8 @@ namespace Mini_Moodle.Migrations
                         .HasColumnType("nvarchar(100)");
 
                     b.Property<string>("VideoUrl")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.HasKey("Id");
 

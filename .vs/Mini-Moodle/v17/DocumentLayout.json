@@ -1,236 +1,280 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\controllers\\v1\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\lessonhandler\\commands\\lessondeletecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\lessonhandler\\commands\\lessondeletecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\lessonhandler\\commands\\lessondeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\lessonhandler\\commands\\lessondeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\controllers\\v1\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:controllers\\v1\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\repositories\\lesson\\lessoncreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\lesson\\lessoncreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\lessonhandler\\commands\\lessonupdatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\lessonhandler\\commands\\lessonupdatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\databasecontext\\moodle_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:databasecontext\\moodle_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\dto\\lessonsdto\\lessonresponsetocreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\lessonsdto\\lessonresponsetocreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\automapper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:automapper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\lessonhandler\\commands\\lessonupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\lessonhandler\\commands\\lessonupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\models\\dto\\lessons\\lessonresponsetocreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\lessons\\lessonresponsetocreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\dto\\lessonsdto\\lessonrequesttocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\lessonsdto\\lessonrequesttocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\models\\domain\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\domain\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\lessonhandler\\queries\\lessongetbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\lessonhandler\\queries\\lessongetbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\models\\dto\\lessons\\lessonrequesttocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\lessons\\lessonrequesttocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\lessonhandler\\queries\\lessongetbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\lessonhandler\\queries\\lessongetbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\coursehandler\\queries\\coursegetbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\coursehandler\\queries\\coursegetbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\mini-moodle.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:mini-moodle.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\controllers\\v1\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\controllers\\v1\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:controllers\\v1\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\repositories\\lesson\\lessoncreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\lesson\\lessoncreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\dto\\coursedto\\courseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\coursedto\\courseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\services\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:services\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\coursehandler\\queries\\coursegetallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\coursehandler\\queries\\coursegetallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\filters\\actionfiltervalidatequeryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:filters\\actionfiltervalidatequeryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\coursehandler\\queries\\coursegetallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\coursehandler\\queries\\coursegetallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\lessonhandler\\queries\\lessongetallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\lessonhandler\\queries\\lessongetallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\exceptions\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:exceptions\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\lessonhandler\\queries\\lessongetallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\lessonhandler\\queries\\lessongetallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\controllers\\v1\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\domain\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\domain\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\dto\\lessonsdto\\lessonresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\lessonsdto\\lessonresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\controllers\\v1\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:controllers\\v1\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\models\\dto\\course\\courserequesttoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\course\\courserequesttoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\automapper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:automapper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\models\\dto\\course\\courserequesttocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\course\\courserequesttocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\dto\\lessonsdto\\uploadvideoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\lessonsdto\\uploadvideoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\models\\dto\\account\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\account\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\dto\\lessonsdto\\uploadvideodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\lessonsdto\\uploadvideodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\models\\dto\\account\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\account\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\dto\\coursedto\\courseresponsecreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\coursedto\\courseresponsecreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\models\\domain\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\domain\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250415135529_AllowsNullInVideoUrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250415135529_AllowsNullInVideoUrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\models\\domain\\grade .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\domain\\grade .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250415135359_AllowsNullInVideoUrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250415135359_AllowsNullInVideoUrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\models\\domain\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\domain\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\coursehandler\\commands\\coursecreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\coursehandler\\commands\\coursecreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\models\\domain\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\domain\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\domain\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\models\\dto\\course\\courseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\course\\courseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\databasecontext\\moodle_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:databasecontext\\moodle_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\models\\dto\\course\\courseresponsecreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\course\\courseresponsecreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\services\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:services\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\repositories\\course\\commands\\coursedeletecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\course\\commands\\coursedeletecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\repositories\\course\\commands\\courseupdatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\course\\commands\\courseupdatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\repositories\\course\\commands\\coursedeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\course\\commands\\coursedeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\repositories\\course\\commands\\coursecreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\course\\commands\\coursecreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\repositories\\course\\commands\\courseupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\course\\commands\\courseupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\\u0441onfigurations\\submissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:\u0441onfigurations\\submissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\\u0441onfigurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:\u0441onfigurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\\u0441onfigurations\\lessonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:\u0441onfigurations\\lessonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\\u0441onfigurations\\gradeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:\u0441onfigurations\\gradeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\\u0441onfigurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:\u0441onfigurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\\u0441onfigurations\\assignmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:\u0441onfigurations\\assignmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\repositories\\course\\commands\\coursecreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\course\\commands\\coursecreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\repositories\\course\\queries\\coursegetbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\course\\queries\\coursegetbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\repositories\\course\\queries\\coursegetallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\course\\queries\\coursegetallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\repositories\\course\\queries\\coursegetallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\course\\queries\\coursegetallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\repositories\\account\\command\\accountregistercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\account\\command\\accountregistercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\repositories\\account\\command\\accountregistercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\account\\command\\accountregistercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\repositories\\account\\command\\accountlogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\account\\command\\accountlogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\repositories\\account\\command\\accountlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\account\\command\\accountlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\models\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\models\\identity\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\identity\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\migrations\\20250408173944_addroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:migrations\\20250408173944_addroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\migrations\\20250407200707_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:migrations\\20250407200707_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\authentication\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:authentication\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\authentication\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:authentication\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\repositories\\course\\queries\\coursegetbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\course\\queries\\coursegetbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\identity\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\identity\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\mini-moodle.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:mini-moodle.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\filters\\actionfiltervalidatequeryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:filters\\actionfiltervalidatequeryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\exceptions\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:exceptions\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\dto\\coursedto\\courserequesttoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\coursedto\\courserequesttoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\dto\\coursedto\\courserequesttocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\coursedto\\courserequesttocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\dto\\accountdto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\accountdto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\dto\\accountdto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\dto\\accountdto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\domain\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\domain\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\domain\\grade .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\domain\\grade .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\models\\domain\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:models\\domain\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\coursehandler\\commands\\coursedeletecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\coursehandler\\commands\\coursedeletecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\coursehandler\\commands\\courseupdatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\coursehandler\\commands\\courseupdatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\coursehandler\\commands\\coursedeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\coursehandler\\commands\\coursedeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\coursehandler\\commands\\coursecreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\coursehandler\\commands\\coursecreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\coursehandler\\commands\\courseupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\coursehandler\\commands\\courseupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\\u0441onfigurations\\submissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:\u0441onfigurations\\submissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\\u0441onfigurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:\u0441onfigurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\\u0441onfigurations\\lessonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:\u0441onfigurations\\lessonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\\u0441onfigurations\\gradeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:\u0441onfigurations\\gradeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\\u0441onfigurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:\u0441onfigurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\\u0441onfigurations\\assignmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:\u0441onfigurations\\assignmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\accounthandler\\command\\accountregistercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\accounthandler\\command\\accountregistercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\accounthandler\\command\\accountregistercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\accounthandler\\command\\accountregistercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\accounthandler\\command\\accountlogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\accounthandler\\command\\accountlogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\accounthandler\\command\\accountlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\accounthandler\\command\\accountlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\migrations\\20250408173944_addroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:migrations\\20250408173944_addroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\migrations\\20250407200707_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:migrations\\20250407200707_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\authentication\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:authentication\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\authentication\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:authentication\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\repositories\\coursehandler\\queries\\coursegetbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:repositories\\coursehandler\\queries\\coursegetbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\mini-moodle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\mini-moodle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:mini-moodle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\migrations\\20250409103812_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\migrations\\20250409103812_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:migrations\\20250409103812_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -240,23 +284,22 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Repositories\\JwtToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\migrations\\moodle_dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\migrations\\moodle_dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:migrations\\moodle_dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250407194831_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250407194831_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250407194831_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\migrations\\20250413174537_addtwocolumnincoursetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\migrations\\20250413174537_addtwocolumnincoursetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:migrations\\20250413174537_addtwocolumnincoursetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\migrations\\20250414030718_increasethemaximumnumberofcharacterslessontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\migrations\\20250414030718_increasethemaximumnumberofcharacterslessontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:migrations\\20250414030718_increasethemaximumnumberofcharacterslessontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mini-moodle\\migrations\\20250414024359_increasethemaximumnumberofcharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle\\migrations\\20250414024359_increasethemaximumnumberofcharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:migrations\\20250414024359_increasethemaximumnumberofcharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -267,7 +310,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -275,575 +318,400 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LessonRequestToCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Dto\\Lessons\\LessonRequestToCreateDto.cs",
-              "RelativeDocumentMoniker": "Models\\Dto\\Lessons\\LessonRequestToCreateDto.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Dto\\Lessons\\LessonRequestToCreateDto.cs",
-              "RelativeToolTip": "Models\\Dto\\Lessons\\LessonRequestToCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T03:00:59.919Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LessonCreateCommand.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Lesson\\LessonCreateCommand.cs",
-              "RelativeDocumentMoniker": "Repositories\\Lesson\\LessonCreateCommand.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Lesson\\LessonCreateCommand.cs",
-              "RelativeToolTip": "Repositories\\Lesson\\LessonCreateCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T04:29:49.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Lesson.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Domain\\Lesson.cs",
-              "RelativeDocumentMoniker": "Models\\Domain\\Lesson.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Domain\\Lesson.cs",
-              "RelativeToolTip": "Models\\Domain\\Lesson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T08:29:43.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AutomapperProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Automapper\\AutomapperProfiles.cs",
-              "RelativeDocumentMoniker": "Automapper\\AutomapperProfiles.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Automapper\\AutomapperProfiles.cs",
-              "RelativeToolTip": "Automapper\\AutomapperProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T20:00:25.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Mini-Moodle.http",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Mini-Moodle.http",
-              "RelativeDocumentMoniker": "Mini-Moodle.http",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Mini-Moodle.http",
-              "RelativeToolTip": "Mini-Moodle.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-06T08:20:46.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Moodle_DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\DatabaseContext\\Moodle_DbContext.cs",
-              "RelativeDocumentMoniker": "DatabaseContext\\Moodle_DbContext.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\DatabaseContext\\Moodle_DbContext.cs",
-              "RelativeToolTip": "DatabaseContext\\Moodle_DbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAnwBkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T09:04:03.74Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LessonController.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Controllers\\v1\\LessonController.cs",
-              "RelativeDocumentMoniker": "Controllers\\v1\\LessonController.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Controllers\\v1\\LessonController.cs",
-              "RelativeToolTip": "Controllers\\v1\\LessonController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAnwCMAAAAIAAAAAAAAAA==",
+              "Title": "LessonDeleteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\LessonHandler\\Commands\\LessonDeleteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Repositories\\LessonHandler\\Commands\\LessonDeleteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\LessonHandler\\Commands\\LessonDeleteCommandHandler.cs",
+              "RelativeToolTip": "Repositories\\LessonHandler\\Commands\\LessonDeleteCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T03:10:01.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T08:12:41.427Z"
+              "WhenOpened": "2025-04-15T17:12:31.759Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LessonCreateCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Lesson\\LessonCreateCommandHandler.cs",
-              "RelativeDocumentMoniker": "Repositories\\Lesson\\LessonCreateCommandHandler.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Lesson\\LessonCreateCommandHandler.cs",
-              "RelativeToolTip": "Repositories\\Lesson\\LessonCreateCommandHandler.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDcAAAAEAAAAAAAAAA==",
+              "Title": "LessonDeleteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\LessonHandler\\Commands\\LessonDeleteCommand.cs",
+              "RelativeDocumentMoniker": "Repositories\\LessonHandler\\Commands\\LessonDeleteCommand.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\LessonHandler\\Commands\\LessonDeleteCommand.cs",
+              "RelativeToolTip": "Repositories\\LessonHandler\\Commands\\LessonDeleteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T04:34:19.068Z"
+              "WhenOpened": "2025-04-15T17:10:55.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LessonUpdateCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\LessonHandler\\Commands\\LessonUpdateCommandHandler.cs",
+              "RelativeDocumentMoniker": "Repositories\\LessonHandler\\Commands\\LessonUpdateCommandHandler.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\LessonHandler\\Commands\\LessonUpdateCommandHandler.cs",
+              "RelativeToolTip": "Repositories\\LessonHandler\\Commands\\LessonUpdateCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T16:43:50.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LessonUpdateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\LessonHandler\\Commands\\LessonUpdateCommand.cs",
+              "RelativeDocumentMoniker": "Repositories\\LessonHandler\\Commands\\LessonUpdateCommand.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\LessonHandler\\Commands\\LessonUpdateCommand.cs",
+              "RelativeToolTip": "Repositories\\LessonHandler\\Commands\\LessonUpdateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T16:39:00.632Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "LessonResponseToCreateUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Dto\\Lessons\\LessonResponseToCreateUpdateDto.cs",
-              "RelativeDocumentMoniker": "Models\\Dto\\Lessons\\LessonResponseToCreateUpdateDto.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Dto\\Lessons\\LessonResponseToCreateUpdateDto.cs",
-              "RelativeToolTip": "Models\\Dto\\Lessons\\LessonResponseToCreateUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\LessonsDto\\LessonResponseToCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\LessonsDto\\LessonResponseToCreateUpdateDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\LessonsDto\\LessonResponseToCreateUpdateDto.cs",
+              "RelativeToolTip": "Models\\Dto\\LessonsDto\\LessonResponseToCreateUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T03:12:53.417Z"
+              "WhenOpened": "2025-04-14T03:12:53.417Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Controllers\\v1\\CourseController.cs",
-              "RelativeDocumentMoniker": "Controllers\\v1\\CourseController.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Controllers\\v1\\CourseController.cs",
-              "RelativeToolTip": "Controllers\\v1\\CourseController.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAgwGkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Controllers\\v1\\LessonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\v1\\LessonController.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Controllers\\v1\\LessonController.cs",
+              "RelativeToolTip": "Controllers\\v1\\LessonController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAYwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T20:00:34.422Z"
+              "WhenOpened": "2025-04-14T03:10:01.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "OperationResult.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Exceptions\\OperationResult.cs",
-              "RelativeDocumentMoniker": "Exceptions\\OperationResult.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Exceptions\\OperationResult.cs",
-              "RelativeToolTip": "Exceptions\\OperationResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "LessonRequestToCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\LessonsDto\\LessonRequestToCreateDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\LessonsDto\\LessonRequestToCreateDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\LessonsDto\\LessonRequestToCreateDto.cs",
+              "RelativeToolTip": "Models\\Dto\\LessonsDto\\LessonRequestToCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:00:00.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ServiceConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Services\\ServiceConfiguration.cs",
-              "RelativeDocumentMoniker": "Services\\ServiceConfiguration.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Services\\ServiceConfiguration.cs",
-              "RelativeToolTip": "Services\\ServiceConfiguration.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAnwGMAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:06:37.261Z"
+              "WhenOpened": "2025-04-14T03:00:59.919Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ActionFilterValidateQueryParameters.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Filters\\ActionFilterValidateQueryParameters.cs",
-              "RelativeDocumentMoniker": "Filters\\ActionFilterValidateQueryParameters.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Filters\\ActionFilterValidateQueryParameters.cs",
-              "RelativeToolTip": "Filters\\ActionFilterValidateQueryParameters.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Title": "CourseGetAllQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Queries\\CourseGetAllQueryHandler.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourseHandler\\Queries\\CourseGetAllQueryHandler.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Queries\\CourseGetAllQueryHandler.cs",
+              "RelativeToolTip": "Repositories\\CourseHandler\\Queries\\CourseGetAllQueryHandler.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T12:13:49.737Z"
+              "WhenOpened": "2025-04-08T09:53:36.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Controllers\\v1\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\v1\\AccountController.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Controllers\\v1\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\v1\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Controllers\\v1\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\v1\\CourseController.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Controllers\\v1\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\v1\\CourseController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABsAAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T15:30:27.728Z"
+              "WhenOpened": "2025-04-12T20:00:34.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CourseRequestToUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Dto\\Course\\CourseRequestToUpdateDto.cs",
-              "RelativeDocumentMoniker": "Models\\Dto\\Course\\CourseRequestToUpdateDto.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Dto\\Course\\CourseRequestToUpdateDto.cs",
-              "RelativeToolTip": "Models\\Dto\\Course\\CourseRequestToUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "LessonGetByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\LessonHandler\\Queries\\LessonGetByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Repositories\\LessonHandler\\Queries\\LessonGetByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\LessonHandler\\Queries\\LessonGetByIdQueryHandler.cs",
+              "RelativeToolTip": "Repositories\\LessonHandler\\Queries\\LessonGetByIdQueryHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T18:04:23.81Z"
+              "WhenOpened": "2025-04-15T16:26:38.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LessonGetByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\LessonHandler\\Queries\\LessonGetByIdQuery.cs",
+              "RelativeDocumentMoniker": "Repositories\\LessonHandler\\Queries\\LessonGetByIdQuery.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\LessonHandler\\Queries\\LessonGetByIdQuery.cs",
+              "RelativeToolTip": "Repositories\\LessonHandler\\Queries\\LessonGetByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T16:29:13.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-09T07:56:09.91Z"
+              "Title": "CourseGetAllQuery.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Queries\\CourseGetAllQuery.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourseHandler\\Queries\\CourseGetAllQuery.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Queries\\CourseGetAllQuery.cs",
+              "RelativeToolTip": "Repositories\\CourseHandler\\Queries\\CourseGetAllQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:46:02.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\CourseDto\\CourseResponseDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\CourseDto\\CourseResponseDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\CourseDto\\CourseResponseDto.cs",
+              "RelativeToolTip": "Models\\Dto\\CourseDto\\CourseResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:01:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseGetByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Queries\\CourseGetByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourseHandler\\Queries\\CourseGetByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Queries\\CourseGetByIdQueryHandler.cs",
+              "RelativeToolTip": "Repositories\\CourseHandler\\Queries\\CourseGetByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:13:18.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Lesson.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Lesson.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Lesson.cs",
+              "RelativeToolTip": "Models\\Domain\\Lesson.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:29:43.862Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "CourseRequestToCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Dto\\Course\\CourseRequestToCreateDto.cs",
-              "RelativeDocumentMoniker": "Models\\Dto\\Course\\CourseRequestToCreateDto.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Dto\\Course\\CourseRequestToCreateDto.cs",
-              "RelativeToolTip": "Models\\Dto\\Course\\CourseRequestToCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Title": "LessonResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\LessonsDto\\LessonResponseDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\LessonsDto\\LessonResponseDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\LessonsDto\\LessonResponseDto.cs",
+              "RelativeToolTip": "Models\\Dto\\LessonsDto\\LessonResponseDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T13:33:01.127Z"
+              "WhenOpened": "2025-04-15T15:26:15.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LessonGetAllQuery.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\LessonHandler\\Queries\\LessonGetAllQuery.cs",
+              "RelativeDocumentMoniker": "Repositories\\LessonHandler\\Queries\\LessonGetAllQuery.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\LessonHandler\\Queries\\LessonGetAllQuery.cs",
+              "RelativeToolTip": "Repositories\\LessonHandler\\Queries\\LessonGetAllQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:36:11.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LessonGetAllQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\LessonHandler\\Queries\\LessonGetAllQueryHandler.cs",
+              "RelativeDocumentMoniker": "Repositories\\LessonHandler\\Queries\\LessonGetAllQueryHandler.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\LessonHandler\\Queries\\LessonGetAllQueryHandler.cs",
+              "RelativeToolTip": "Repositories\\LessonHandler\\Queries\\LessonGetAllQueryHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:37:28.123Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "RegisterRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Dto\\Account\\RegisterRequestDto.cs",
-              "RelativeDocumentMoniker": "Models\\Dto\\Account\\RegisterRequestDto.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Dto\\Account\\RegisterRequestDto.cs",
-              "RelativeToolTip": "Models\\Dto\\Account\\RegisterRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Controllers\\v1\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\v1\\AccountController.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Controllers\\v1\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\v1\\AccountController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T20:01:26.663Z"
+              "WhenOpened": "2025-04-08T15:30:27.728Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "LoginRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Dto\\Account\\LoginRequestDto.cs",
-              "RelativeDocumentMoniker": "Models\\Dto\\Account\\LoginRequestDto.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Dto\\Account\\LoginRequestDto.cs",
-              "RelativeToolTip": "Models\\Dto\\Account\\LoginRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Title": "AutomapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Automapper\\AutomapperProfiles.cs",
+              "RelativeDocumentMoniker": "Automapper\\AutomapperProfiles.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Automapper\\AutomapperProfiles.cs",
+              "RelativeToolTip": "Automapper\\AutomapperProfiles.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:42:17.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "20250414030718_IncreaseTheMaximumNumberOfCharactersLessonTable.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250414030718_IncreaseTheMaximumNumberOfCharactersLessonTable.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250414030718_IncreaseTheMaximumNumberOfCharactersLessonTable.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250414030718_IncreaseTheMaximumNumberOfCharactersLessonTable.cs",
-              "RelativeToolTip": "Migrations\\20250414030718_IncreaseTheMaximumNumberOfCharactersLessonTable.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T03:07:19.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Assignment.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Domain\\Assignment.cs",
-              "RelativeDocumentMoniker": "Models\\Domain\\Assignment.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Domain\\Assignment.cs",
-              "RelativeToolTip": "Models\\Domain\\Assignment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T08:30:05.457Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Domain\\Course.cs",
-              "RelativeDocumentMoniker": "Models\\Domain\\Course.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Domain\\Course.cs",
-              "RelativeToolTip": "Models\\Domain\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T20:01:19.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Grade .cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Domain\\Grade .cs",
-              "RelativeDocumentMoniker": "Models\\Domain\\Grade .cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Domain\\Grade .cs",
-              "RelativeToolTip": "Models\\Domain\\Grade .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T08:30:36.004Z"
+              "WhenOpened": "2025-04-12T20:00:25.048Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Submission.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Domain\\Submission.cs",
-              "RelativeDocumentMoniker": "Models\\Domain\\Submission.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Domain\\Submission.cs",
-              "RelativeToolTip": "Models\\Domain\\Submission.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "UploadVideoResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\LessonsDto\\UploadVideoResponseDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\LessonsDto\\UploadVideoResponseDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\LessonsDto\\UploadVideoResponseDto.cs",
+              "RelativeToolTip": "Models\\Dto\\LessonsDto\\UploadVideoResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T08:30:19.254Z"
+              "WhenOpened": "2025-04-15T15:05:56.358Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CourseResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Dto\\Course\\CourseResponseDto.cs",
-              "RelativeDocumentMoniker": "Models\\Dto\\Course\\CourseResponseDto.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Dto\\Course\\CourseResponseDto.cs",
-              "RelativeToolTip": "Models\\Dto\\Course\\CourseResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "UploadVideoDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\LessonsDto\\UploadVideoDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\LessonsDto\\UploadVideoDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\LessonsDto\\UploadVideoDto.cs",
+              "RelativeToolTip": "Models\\Dto\\LessonsDto\\UploadVideoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T20:01:24.433Z"
+              "WhenOpened": "2025-04-15T09:38:38.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 22,
               "Title": "CourseResponseCreateUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Dto\\Course\\CourseResponseCreateUpdateDto.cs",
-              "RelativeDocumentMoniker": "Models\\Dto\\Course\\CourseResponseCreateUpdateDto.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Dto\\Course\\CourseResponseCreateUpdateDto.cs",
-              "RelativeToolTip": "Models\\Dto\\Course\\CourseResponseCreateUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\CourseDto\\CourseResponseCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\CourseDto\\CourseResponseCreateUpdateDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\CourseDto\\CourseResponseCreateUpdateDto.cs",
+              "RelativeToolTip": "Models\\Dto\\CourseDto\\CourseResponseCreateUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T20:01:25.201Z"
+              "WhenOpened": "2025-04-12T20:01:25.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CourseUpdateCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Commands\\CourseUpdateCommandHandler.cs",
-              "RelativeDocumentMoniker": "Repositories\\Course\\Commands\\CourseUpdateCommandHandler.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Commands\\CourseUpdateCommandHandler.cs",
-              "RelativeToolTip": "Repositories\\Course\\Commands\\CourseUpdateCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAvAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "20250415135529_AllowsNullInVideoUrl.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250415135529_AllowsNullInVideoUrl.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250415135529_AllowsNullInVideoUrl.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250415135529_AllowsNullInVideoUrl.cs",
+              "RelativeToolTip": "Migrations\\20250415135529_AllowsNullInVideoUrl.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T18:09:42.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CourseCreateCommand.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Commands\\CourseCreateCommand.cs",
-              "RelativeDocumentMoniker": "Repositories\\Course\\Commands\\CourseCreateCommand.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Commands\\CourseCreateCommand.cs",
-              "RelativeToolTip": "Repositories\\Course\\Commands\\CourseCreateCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T20:01:52.036Z"
+              "WhenOpened": "2025-04-15T13:55:29.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "CourseDeleteCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Commands\\CourseDeleteCommandHandler.cs",
-              "RelativeDocumentMoniker": "Repositories\\Course\\Commands\\CourseDeleteCommandHandler.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Commands\\CourseDeleteCommandHandler.cs",
-              "RelativeToolTip": "Repositories\\Course\\Commands\\CourseDeleteCommandHandler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Course.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Course.cs",
+              "RelativeToolTip": "Models\\Domain\\Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T02:15:05.345Z"
+              "WhenOpened": "2025-04-12T20:01:19.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "20250414024359_IncreaseTheMaximumNumberOfCharacters.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250414024359_IncreaseTheMaximumNumberOfCharacters.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250414024359_IncreaseTheMaximumNumberOfCharacters.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250414024359_IncreaseTheMaximumNumberOfCharacters.cs",
-              "RelativeToolTip": "Migrations\\20250414024359_IncreaseTheMaximumNumberOfCharacters.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "20250415135359_AllowsNullInVideoUrl.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250415135359_AllowsNullInVideoUrl.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250415135359_AllowsNullInVideoUrl.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250415135359_AllowsNullInVideoUrl.cs",
+              "RelativeToolTip": "Migrations\\20250415135359_AllowsNullInVideoUrl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T02:43:59.171Z"
+              "WhenOpened": "2025-04-15T13:53:59.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CourseUpdateCommand.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Commands\\CourseUpdateCommand.cs",
-              "RelativeDocumentMoniker": "Repositories\\Course\\Commands\\CourseUpdateCommand.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Commands\\CourseUpdateCommand.cs",
-              "RelativeToolTip": "Repositories\\Course\\Commands\\CourseUpdateCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "CourseCreateCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Commands\\CourseCreateCommandHandler.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourseHandler\\Commands\\CourseCreateCommandHandler.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Commands\\CourseCreateCommandHandler.cs",
+              "RelativeToolTip": "Repositories\\CourseHandler\\Commands\\CourseCreateCommandHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T18:07:44.574Z"
+              "WhenOpened": "2025-04-12T20:01:53.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Moodle_DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\DatabaseContext\\Moodle_DbContext.cs",
+              "RelativeDocumentMoniker": "DatabaseContext\\Moodle_DbContext.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\DatabaseContext\\Moodle_DbContext.cs",
+              "RelativeToolTip": "DatabaseContext\\Moodle_DbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:04:03.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "CourseDeleteCommand.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Commands\\CourseDeleteCommand.cs",
-              "RelativeDocumentMoniker": "Repositories\\Course\\Commands\\CourseDeleteCommand.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Commands\\CourseDeleteCommand.cs",
-              "RelativeToolTip": "Repositories\\Course\\Commands\\CourseDeleteCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "ServiceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Services\\ServiceConfiguration.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Services\\ServiceConfiguration.cs",
+              "RelativeToolTip": "Services\\ServiceConfiguration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T02:14:46.268Z"
+              "WhenOpened": "2025-04-07T19:06:37.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T20:00:12.09Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "SubmissionConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\\u0421onfigurations\\SubmissionConfiguration.cs",
-              "RelativeDocumentMoniker": "\u0421onfigurations\\SubmissionConfiguration.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\\u0421onfigurations\\SubmissionConfiguration.cs",
-              "RelativeToolTip": "\u0421onfigurations\\SubmissionConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:43:42.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "RoleConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\\u0421onfigurations\\RoleConfiguration.cs",
-              "RelativeDocumentMoniker": "\u0421onfigurations\\RoleConfiguration.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\\u0421onfigurations\\RoleConfiguration.cs",
-              "RelativeToolTip": "\u0421onfigurations\\RoleConfiguration.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAnwCQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:06:15.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "LessonConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\\u0421onfigurations\\LessonConfiguration.cs",
-              "RelativeDocumentMoniker": "\u0421onfigurations\\LessonConfiguration.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\\u0421onfigurations\\LessonConfiguration.cs",
-              "RelativeToolTip": "\u0421onfigurations\\LessonConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:43:38.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "GradeConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\\u0421onfigurations\\GradeConfiguration.cs",
-              "RelativeDocumentMoniker": "\u0421onfigurations\\GradeConfiguration.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\\u0421onfigurations\\GradeConfiguration.cs",
-              "RelativeToolTip": "\u0421onfigurations\\GradeConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:43:37.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "CourseConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\\u0421onfigurations\\CourseConfiguration.cs",
-              "RelativeDocumentMoniker": "\u0421onfigurations\\CourseConfiguration.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\\u0421onfigurations\\CourseConfiguration.cs",
-              "RelativeToolTip": "\u0421onfigurations\\CourseConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T18:33:11.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "AssignmentConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\\u0421onfigurations\\AssignmentConfiguration.cs",
-              "RelativeDocumentMoniker": "\u0421onfigurations\\AssignmentConfiguration.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\\u0421onfigurations\\AssignmentConfiguration.cs",
-              "RelativeToolTip": "\u0421onfigurations\\AssignmentConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:43:30.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "CourseCreateCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Commands\\CourseCreateCommandHandler.cs",
-              "RelativeDocumentMoniker": "Repositories\\Course\\Commands\\CourseCreateCommandHandler.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Commands\\CourseCreateCommandHandler.cs",
-              "RelativeToolTip": "Repositories\\Course\\Commands\\CourseCreateCommandHandler.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAABBwBwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T20:01:53.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "20250413174537_AddTwoColumnInCourseTable.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250413174537_AddTwoColumnInCourseTable.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250413174537_AddTwoColumnInCourseTable.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250413174537_AddTwoColumnInCourseTable.cs",
-              "RelativeToolTip": "Migrations\\20250413174537_AddTwoColumnInCourseTable.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T17:45:37.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-06T08:20:50.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "CourseGetByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Queries\\CourseGetByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "Repositories\\Course\\Queries\\CourseGetByIdQueryHandler.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Queries\\CourseGetByIdQueryHandler.cs",
-              "RelativeToolTip": "Repositories\\Course\\Queries\\CourseGetByIdQueryHandler.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T12:13:18.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "CourseGetAllQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Queries\\CourseGetAllQueryHandler.cs",
-              "RelativeDocumentMoniker": "Repositories\\Course\\Queries\\CourseGetAllQueryHandler.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Queries\\CourseGetAllQueryHandler.cs",
-              "RelativeToolTip": "Repositories\\Course\\Queries\\CourseGetAllQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T09:53:36.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "CourseGetAllQuery.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Queries\\CourseGetAllQuery.cs",
-              "RelativeDocumentMoniker": "Repositories\\Course\\Queries\\CourseGetAllQuery.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Queries\\CourseGetAllQuery.cs",
-              "RelativeToolTip": "Repositories\\Course\\Queries\\CourseGetAllQuery.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T09:46:02.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "AccountRegisterCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Account\\Command\\AccountRegisterCommandHandler.cs",
-              "RelativeDocumentMoniker": "Repositories\\Account\\Command\\AccountRegisterCommandHandler.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Account\\Command\\AccountRegisterCommandHandler.cs",
-              "RelativeToolTip": "Repositories\\Account\\Command\\AccountRegisterCommandHandler.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T20:01:45.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "AccountRegisterCommand.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Account\\Command\\AccountRegisterCommand.cs",
-              "RelativeDocumentMoniker": "Repositories\\Account\\Command\\AccountRegisterCommand.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Account\\Command\\AccountRegisterCommand.cs",
-              "RelativeToolTip": "Repositories\\Account\\Command\\AccountRegisterCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T20:01:43.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
               "Title": "ApplicationRole.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Identity\\ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Identity\\ApplicationRole.cs",
               "RelativeDocumentMoniker": "Models\\Identity\\ApplicationRole.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Identity\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Identity\\ApplicationRole.cs",
               "RelativeToolTip": "Models\\Identity\\ApplicationRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -851,11 +719,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T08:20:50.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Identity\\ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Identity\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Models\\Identity\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Models\\Identity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Identity\\ApplicationUser.cs",
               "RelativeToolTip": "Models\\Identity\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -863,35 +743,371 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Mini-Moodle.http",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Mini-Moodle.http",
+              "RelativeDocumentMoniker": "Mini-Moodle.http",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Mini-Moodle.http",
+              "RelativeToolTip": "Mini-Moodle.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-06T08:20:46.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:12:41.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Exceptions\\OperationResult.cs",
+              "RelativeDocumentMoniker": "Exceptions\\OperationResult.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Exceptions\\OperationResult.cs",
+              "RelativeToolTip": "Exceptions\\OperationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:00:00.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ActionFilterValidateQueryParameters.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Filters\\ActionFilterValidateQueryParameters.cs",
+              "RelativeDocumentMoniker": "Filters\\ActionFilterValidateQueryParameters.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Filters\\ActionFilterValidateQueryParameters.cs",
+              "RelativeToolTip": "Filters\\ActionFilterValidateQueryParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:13:49.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CourseRequestToUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\CourseDto\\CourseRequestToUpdateDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\CourseDto\\CourseRequestToUpdateDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\CourseDto\\CourseRequestToUpdateDto.cs",
+              "RelativeToolTip": "Models\\Dto\\CourseDto\\CourseRequestToUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:04:23.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T07:56:09.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CourseRequestToCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\CourseDto\\CourseRequestToCreateDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\CourseDto\\CourseRequestToCreateDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\CourseDto\\CourseRequestToCreateDto.cs",
+              "RelativeToolTip": "Models\\Dto\\CourseDto\\CourseRequestToCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:33:01.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\AccountDto\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\AccountDto\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\AccountDto\\RegisterRequestDto.cs",
+              "RelativeToolTip": "Models\\Dto\\AccountDto\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:01:26.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\AccountDto\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\AccountDto\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Dto\\AccountDto\\LoginRequestDto.cs",
+              "RelativeToolTip": "Models\\Dto\\AccountDto\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:42:17.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20250414030718_IncreaseTheMaximumNumberOfCharactersLessonTable.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250414030718_IncreaseTheMaximumNumberOfCharactersLessonTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250414030718_IncreaseTheMaximumNumberOfCharactersLessonTable.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250414030718_IncreaseTheMaximumNumberOfCharactersLessonTable.cs",
+              "RelativeToolTip": "Migrations\\20250414030718_IncreaseTheMaximumNumberOfCharactersLessonTable.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:07:19.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Assignment.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Assignment.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Assignment.cs",
+              "RelativeToolTip": "Models\\Domain\\Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:30:05.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Grade .cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Grade .cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Grade .cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Grade .cs",
+              "RelativeToolTip": "Models\\Domain\\Grade .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:30:36.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Submission.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Submission.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Submission.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Models\\Domain\\Submission.cs",
+              "RelativeToolTip": "Models\\Domain\\Submission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:30:19.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CourseUpdateCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Commands\\CourseUpdateCommandHandler.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourseHandler\\Commands\\CourseUpdateCommandHandler.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Commands\\CourseUpdateCommandHandler.cs",
+              "RelativeToolTip": "Repositories\\CourseHandler\\Commands\\CourseUpdateCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:09:42.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CourseCreateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Commands\\CourseCreateCommand.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourseHandler\\Commands\\CourseCreateCommand.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Commands\\CourseCreateCommand.cs",
+              "RelativeToolTip": "Repositories\\CourseHandler\\Commands\\CourseCreateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:01:52.036Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 45,
+              "Title": "CourseDeleteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Commands\\CourseDeleteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourseHandler\\Commands\\CourseDeleteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Commands\\CourseDeleteCommandHandler.cs",
+              "RelativeToolTip": "Repositories\\CourseHandler\\Commands\\CourseDeleteCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:15:05.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20250414024359_IncreaseTheMaximumNumberOfCharacters.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250414024359_IncreaseTheMaximumNumberOfCharacters.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250414024359_IncreaseTheMaximumNumberOfCharacters.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250414024359_IncreaseTheMaximumNumberOfCharacters.cs",
+              "RelativeToolTip": "Migrations\\20250414024359_IncreaseTheMaximumNumberOfCharacters.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:43:59.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CourseUpdateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Commands\\CourseUpdateCommand.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourseHandler\\Commands\\CourseUpdateCommand.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Commands\\CourseUpdateCommand.cs",
+              "RelativeToolTip": "Repositories\\CourseHandler\\Commands\\CourseUpdateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:07:44.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CourseDeleteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Commands\\CourseDeleteCommand.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourseHandler\\Commands\\CourseDeleteCommand.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Commands\\CourseDeleteCommand.cs",
+              "RelativeToolTip": "Repositories\\CourseHandler\\Commands\\CourseDeleteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:14:46.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SubmissionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\\u0421onfigurations\\SubmissionConfiguration.cs",
+              "RelativeDocumentMoniker": "\u0421onfigurations\\SubmissionConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\\u0421onfigurations\\SubmissionConfiguration.cs",
+              "RelativeToolTip": "\u0421onfigurations\\SubmissionConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:43:42.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\\u0421onfigurations\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "\u0421onfigurations\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\\u0421onfigurations\\RoleConfiguration.cs",
+              "RelativeToolTip": "\u0421onfigurations\\RoleConfiguration.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAnwCQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:06:15.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LessonConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\\u0421onfigurations\\LessonConfiguration.cs",
+              "RelativeDocumentMoniker": "\u0421onfigurations\\LessonConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\\u0421onfigurations\\LessonConfiguration.cs",
+              "RelativeToolTip": "\u0421onfigurations\\LessonConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:43:38.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GradeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\\u0421onfigurations\\GradeConfiguration.cs",
+              "RelativeDocumentMoniker": "\u0421onfigurations\\GradeConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\\u0421onfigurations\\GradeConfiguration.cs",
+              "RelativeToolTip": "\u0421onfigurations\\GradeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:43:37.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CourseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\\u0421onfigurations\\CourseConfiguration.cs",
+              "RelativeDocumentMoniker": "\u0421onfigurations\\CourseConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\\u0421onfigurations\\CourseConfiguration.cs",
+              "RelativeToolTip": "\u0421onfigurations\\CourseConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:33:11.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AssignmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\\u0421onfigurations\\AssignmentConfiguration.cs",
+              "RelativeDocumentMoniker": "\u0421onfigurations\\AssignmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\\u0421onfigurations\\AssignmentConfiguration.cs",
+              "RelativeToolTip": "\u0421onfigurations\\AssignmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:43:30.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20250413174537_AddTwoColumnInCourseTable.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250413174537_AddTwoColumnInCourseTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250413174537_AddTwoColumnInCourseTable.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250413174537_AddTwoColumnInCourseTable.cs",
+              "RelativeToolTip": "Migrations\\20250413174537_AddTwoColumnInCourseTable.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:45:37.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AccountRegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\AccountHandler\\Command\\AccountRegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountHandler\\Command\\AccountRegisterCommandHandler.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\AccountHandler\\Command\\AccountRegisterCommandHandler.cs",
+              "RelativeToolTip": "Repositories\\AccountHandler\\Command\\AccountRegisterCommandHandler.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:01:45.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AccountRegisterCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\AccountHandler\\Command\\AccountRegisterCommand.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountHandler\\Command\\AccountRegisterCommand.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\AccountHandler\\Command\\AccountRegisterCommand.cs",
+              "RelativeToolTip": "Repositories\\AccountHandler\\Command\\AccountRegisterCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:01:43.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
               "Title": "AccountLoginCommand.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Account\\Command\\AccountLoginCommand.cs",
-              "RelativeDocumentMoniker": "Repositories\\Account\\Command\\AccountLoginCommand.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Account\\Command\\AccountLoginCommand.cs",
-              "RelativeToolTip": "Repositories\\Account\\Command\\AccountLoginCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\AccountHandler\\Command\\AccountLoginCommand.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountHandler\\Command\\AccountLoginCommand.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\AccountHandler\\Command\\AccountLoginCommand.cs",
+              "RelativeToolTip": "Repositories\\AccountHandler\\Command\\AccountLoginCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T17:48:24.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 58,
               "Title": "AccountLoginCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Account\\Command\\AccountLoginCommandHandler.cs",
-              "RelativeDocumentMoniker": "Repositories\\Account\\Command\\AccountLoginCommandHandler.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Account\\Command\\AccountLoginCommandHandler.cs",
-              "RelativeToolTip": "Repositories\\Account\\Command\\AccountLoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\AccountHandler\\Command\\AccountLoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountHandler\\Command\\AccountLoginCommandHandler.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\AccountHandler\\Command\\AccountLoginCommandHandler.cs",
+              "RelativeToolTip": "Repositories\\AccountHandler\\Command\\AccountLoginCommandHandler.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T17:49:27.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 60,
               "Title": "20250408173944_AddRoles.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250408173944_AddRoles.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250408173944_AddRoles.cs",
               "RelativeDocumentMoniker": "Migrations\\20250408173944_AddRoles.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250408173944_AddRoles.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250408173944_AddRoles.cs",
               "RelativeToolTip": "Migrations\\20250408173944_AddRoles.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -899,11 +1115,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 61,
               "Title": "20250407200707_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250407200707_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250407200707_Initial.cs",
               "RelativeDocumentMoniker": "Migrations\\20250407200707_Initial.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250407200707_Initial.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250407200707_Initial.cs",
               "RelativeToolTip": "Migrations\\20250407200707_Initial.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAHAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -911,23 +1127,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 62,
               "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Middleware\\ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Middleware\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Middleware\\ExceptionMiddleware.cs",
               "RelativeToolTip": "Middleware\\ExceptionMiddleware.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:48:02.001Z"
+              "WhenOpened": "2025-04-12T08:48:02.001Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 63,
               "Title": "JwtTokenGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Authentication\\JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Authentication\\JwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "Authentication\\JwtTokenGenerator.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Authentication\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Authentication\\JwtTokenGenerator.cs",
               "RelativeToolTip": "Authentication\\JwtTokenGenerator.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAC0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -935,11 +1152,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 64,
               "Title": "IJwtTokenGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Authentication\\IJwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Authentication\\IJwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "Authentication\\IJwtTokenGenerator.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Authentication\\IJwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Authentication\\IJwtTokenGenerator.cs",
               "RelativeToolTip": "Authentication\\IJwtTokenGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -947,35 +1164,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-12T20:00:12.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 65,
               "Title": "CourseGetByIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Queries\\CourseGetByIdQuery.cs",
-              "RelativeDocumentMoniker": "Repositories\\Course\\Queries\\CourseGetByIdQuery.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Repositories\\Course\\Queries\\CourseGetByIdQuery.cs",
-              "RelativeToolTip": "Repositories\\Course\\Queries\\CourseGetByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Queries\\CourseGetByIdQuery.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourseHandler\\Queries\\CourseGetByIdQuery.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Repositories\\CourseHandler\\Queries\\CourseGetByIdQuery.cs",
+              "RelativeToolTip": "Repositories\\CourseHandler\\Queries\\CourseGetByIdQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T12:11:19.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 67,
               "Title": "Mini-Moodle.csproj",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Mini-Moodle.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Mini-Moodle.csproj",
               "RelativeDocumentMoniker": "Mini-Moodle.csproj",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Mini-Moodle.csproj",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Mini-Moodle.csproj",
               "RelativeToolTip": "Mini-Moodle.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -983,23 +1188,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 66,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ViewState": "AgIAAPYAAAAAAAAAAAAUwAkBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-04-10T16:48:33.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 68,
               "Title": "20250409103812_AddUserRole.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250409103812_AddUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250409103812_AddUserRole.cs",
               "RelativeDocumentMoniker": "Migrations\\20250409103812_AddUserRole.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250409103812_AddUserRole.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250409103812_AddUserRole.cs",
               "RelativeToolTip": "Migrations\\20250409103812_AddUserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1007,33 +1212,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 69,
               "Title": "ConfigureServices.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Services\\ConfigureServices.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Services\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "..\\LerningAllAboutWebApi\\Services\\ConfigureServices.cs",
               "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Services\\ConfigureServices.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Services\\ConfigureServices.cs",
+              "RelativeToolTip": "..\\LerningAllAboutWebApi\\Services\\ConfigureServices.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T08:30:35.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 70,
               "Title": "JwtToken.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Repositories\\JwtToken.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Repositories\\JwtToken.cs",
+              "RelativeDocumentMoniker": "..\\LerningAllAboutWebApi\\Repositories\\JwtToken.cs",
               "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Repositories\\JwtToken.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Repositories\\JwtToken.cs",
+              "RelativeToolTip": "..\\LerningAllAboutWebApi\\Repositories\\JwtToken.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T08:13:55.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 71,
               "Title": "Moodle_DbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\Moodle_DbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\Moodle_DbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\Moodle_DbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\Moodle_DbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\Moodle_DbContextModelSnapshot.cs",
               "RelativeToolTip": "Migrations\\Moodle_DbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1041,12 +1246,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 72,
               "Title": "20250407194831_Initial.cs",
               "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250407194831_Initial.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250407194831_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250407194831_Initial.cs",
               "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250407194831_Initial.cs",
-              "RelativeToolTip": "Migrations\\20250407194831_Initial.cs",
+              "RelativeToolTip": "..\\..\\..\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250407194831_Initial.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T19:48:31.822Z"
             }

@@ -21,7 +21,7 @@ namespace Mini_Moodle.Controllers.v1
             this.mediator = mediator;
         }
 
-        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admin,Student,Teacher")]
+        //[Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admin,Student,Teacher")]
         [TypeFilter(typeof(ActionFilterValidateQueryParameters))]
         [HttpGet]
         public async Task<ActionResult<List<CourseResponseDto>>> GetAll([FromQuery] string? filterBy = null, [FromQuery] string? filterOn = null,

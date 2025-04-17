@@ -1,22 +1,40 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Videos\devenv_0yy3cRjsl2.mp4'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Videos\38350c14-028e-417b-b1a0-8a8b2e1aa37e.mp4'))">
       <SourceType>Package</SourceType>
       <SourceId>Mini-Moodle</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Mini-Moodle</BasePath>
-      <RelativePath>Videos/devenv_0yy3cRjsl2.mp4</RelativePath>
+      <RelativePath>Videos/38350c14-028e-417b-b1a0-8a8b2e1aa37e.mp4</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3485gpoywx</Fingerprint>
-      <Integrity>U8xZgn56Z10fJmSdEOsKCEDWOIQtlt8zo25r+obzlwQ=</Integrity>
+      <Fingerprint>mowyr1waie</Fingerprint>
+      <Integrity>CgfuEuZ7VovBI5wryjnRbfPxz3ZE+zv2xg0TmKUwXvk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Videos\devenv_0yy3cRjsl2.mp4'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Videos\38350c14-028e-417b-b1a0-8a8b2e1aa37e.mp4'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Videos\953775b8-88e1-4def-aacc-439122e14ed2.mp4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Mini-Moodle</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Mini-Moodle</BasePath>
+      <RelativePath>Videos/953775b8-88e1-4def-aacc-439122e14ed2.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>mowyr1waie</Fingerprint>
+      <Integrity>CgfuEuZ7VovBI5wryjnRbfPxz3ZE+zv2xg0TmKUwXvk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Videos\953775b8-88e1-4def-aacc-439122e14ed2.mp4'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

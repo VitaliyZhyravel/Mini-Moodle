@@ -1,9 +1,9 @@
 ﻿using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Mini_Moodle.Filters;
 using Mini_Moodle.Models.Dto.Lessons;
 using Mini_Moodle.Repositories.Lesson;
+using Mini_Moodle.Repositories.LessonHandler.Commands;
+using Mini_Moodle.Repositories.LessonHandler.Queries;
 
 namespace Mini_Moodle.Controllers.v1
 {
@@ -17,9 +17,40 @@ namespace Mini_Moodle.Controllers.v1
         {
             this.mediator = mediator;
         }
+        [HttpGet]
+        public async Task<ActionResult<List<LessonResponseDto>>> GetAll([FromQuery] string? filterBy = null, [FromQuery] string? filterOn = null,
+            [FromQuery] string? sortBy = null, [FromQuery] bool isAscending = true, int pageNumber = 0, int pageSize = 1000)
+        {
+            try
+            {
+                var query = new LessonGetAllQuery(filterBy, filterOn, sortBy, isAscending, pageNumber, pageSize);
+                var result = await mediator.Send(query);
+
+                return result.IsSuccess ? Ok(result.Data) : BadRequest(result.ErrorMessage);
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest($"Exeption Message : {ex.Message}\nInner exception: {ex.InnerException?.Message}");
+            }
+        }
+        [HttpGet("{Id:guid}")]
+        public async Task<ActionResult<LessonResponseDto>> GetById([FromRoute] Guid Id)
+        {
+            try
+            {
+                var query = new LessonGetByIdQuery(Id);
+                var result = await mediator.Send(query);
+                return result.IsSuccess ? Ok(result.Data) : BadRequest(result.ErrorMessage);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest($"Exeption Message : {ex.Message}\nInner exception: {ex.InnerException?.Message}");
+            }
+        }
 
         [HttpPost]
-        public async Task<ActionResult<LessonResponseToCreateUpdateDto>> Create([FromForm] LessonRequestToCreateDto userRequest) 
+        public async Task<ActionResult<LessonResponseToCreateUpdateDto>> Create([FromBody] LessonRequestToCreateDto userRequest)
         {
             try
             {
@@ -33,6 +64,49 @@ namespace Mini_Moodle.Controllers.v1
 
                 return BadRequest($"Exeption Message : {ex.Message}\nInner exception: {ex.InnerException?.Message}");
             }
+        }
+        [HttpPost("{Id:guid}/video")]
+        public async Task<IActionResult> UploadVideo([FromRoute] Guid Id, [FromForm] UploadVideoDto uploadVideo)
+        {
+            try
+            {
+                var query = new UploadVideoCommand(Id, uploadVideo.file);
+                var result = await mediator.Send(query);
+
+                return result.IsSuccess ? Ok(result.Data) : BadRequest(result.ErrorMessage);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest($"Exeption Message : {ex.Message}\nInner exception: {ex.InnerException?.Message}");
+            }
+        }
+        [HttpPut("{Id:guid}")]
+        public async Task<ActionResult<LessonResponseToCreateUpdateDto>> Update([FromRoute] Guid Id, [FromBody] LessonRequestToCreateDto userRequest)
+        {
+            try
+            {
+                var query = new LessonUpdateCommand(Id, userRequest);
+                var result = await mediator.Send(query);
+                return result.IsSuccess ? Ok(result.Data) : BadRequest(result.ErrorMessage);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest($"Exeption Message : {ex.Message}\nInner exception: {ex.InnerException?.Message}");
+            }
+        }
+        [HttpDelete("{Id:guid}")]
+        public async Task<ActionResult<LessonResponseToCreateUpdateDto>> Delete(Guid Id)
+        {
+            try
+            {
+                var query = new LessonDeleteCommand(Id);
+                var result = await mediator.Send(query);
+                return result.IsSuccess ? Ok(result.Data) : BadRequest(result.ErrorMessage);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest($"Exeption Message : {ex.Message}\nInner exception: {ex.InnerException?.Message}");
+            }   
         }
     }
 }

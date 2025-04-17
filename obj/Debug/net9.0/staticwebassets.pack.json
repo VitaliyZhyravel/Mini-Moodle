@@ -1,8 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\vital\\OneDrive\\Рабочий стол\\Mini-Moodle\\wwwroot\\Videos\\devenv_0yy3cRjsl2.mp4",
-      "PackagePath": "staticwebassets\\Videos\\devenv_0yy3cRjsl2.mp4"
+      "Id": "C:\\Users\\ДІАНА\\Desktop\\Mini-Moodle\\wwwroot\\Videos\\38350c14-028e-417b-b1a0-8a8b2e1aa37e.mp4",
+      "PackagePath": "staticwebassets\\Videos\\38350c14-028e-417b-b1a0-8a8b2e1aa37e.mp4"
+    },
+    {
+      "Id": "C:\\Users\\ДІАНА\\Desktop\\Mini-Moodle\\wwwroot\\Videos\\953775b8-88e1-4def-aacc-439122e14ed2.mp4",
+      "PackagePath": "staticwebassets\\Videos\\953775b8-88e1-4def-aacc-439122e14ed2.mp4"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Mini-Moodle.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
