@@ -1,0 +1,12 @@
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Domain\obj\Debug\net9.0\Mini-Moodle.Domain.csproj.AssemblyReference.cache
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Domain\obj\Debug\net9.0\Mini-Moodle.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Domain\obj\Debug\net9.0\Mini-Moodle.Domain.AssemblyInfoInputs.cache
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Domain\obj\Debug\net9.0\Mini-Moodle.Domain.AssemblyInfo.cs
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Domain\obj\Debug\net9.0\Mini-Moodle.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Domain\bin\Debug\net9.0\Mini-Moodle.Domain.deps.json
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Domain\bin\Debug\net9.0\Mini-Moodle.Domain.dll
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Domain\bin\Debug\net9.0\Mini-Moodle.Domain.pdb
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Domain\obj\Debug\net9.0\Mini-Moodle.Domain.dll
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Domain\obj\Debug\net9.0\refint\Mini-Moodle.Domain.dll
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Domain\obj\Debug\net9.0\Mini-Moodle.Domain.pdb
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Domain\obj\Debug\net9.0\ref\Mini-Moodle.Domain.dll

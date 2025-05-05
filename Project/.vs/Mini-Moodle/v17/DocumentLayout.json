@@ -1,0 +1,1227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\lessons\\queries\\getalllessons\\lessongetallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\lessons\\queries\\getbyidlesson\\lessongetbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\submissions\\queries\\getbyidsubmission\\submissiongetbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\courses\\commands\\deletecourse\\coursedeletecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B2E8C-C963-490C-8114-5D014F926A2F}|..\\Mini-Moodle.Persistence\\Mini-Moodle.Persistence.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.persistence\\repositories\\submissonservice\\implementation\\submissionqueryrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B2E8C-C963-490C-8114-5D014F926A2F}|..\\Mini-Moodle.Persistence\\Mini-Moodle.Persistence.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.persistence\\repositories\\submissonservice\\implementation\\submissioncommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\submissions\\commands\\uploadvideosubmisson\\submissionuploadfilescommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\submissions\\commands\\deletesubmisson\\submissiondeletecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EBBD79-F1B1-4B2B-A1C5-1936788C2C12}|..\\Mini-Moodle.Infrastructure\\Mini-Moodle.Infrastructure.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.infrastructure\\filestorageservices\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\submissions\\commands\\deletesubmisson\\submissiondeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B2E8C-C963-490C-8114-5D014F926A2F}|..\\Mini-Moodle.Persistence\\Mini-Moodle.Persistence.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.persistence\\repositories\\submissonservice\\interfaces\\isubmissioncommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\lessons\\commands\\deletelesson\\lessondeletecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B2E8C-C963-490C-8114-5D014F926A2F}|..\\Mini-Moodle.Persistence\\Mini-Moodle.Persistence.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.persistence\\repositories\\lessonservice\\implementation\\lessoncommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B2E8C-C963-490C-8114-5D014F926A2F}|..\\Mini-Moodle.Persistence\\Mini-Moodle.Persistence.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.persistence\\repositories\\lessonservice\\interfaces\\ilessoncommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\lessons\\commands\\deletelesson\\lessondeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B2E8C-C963-490C-8114-5D014F926A2F}|..\\Mini-Moodle.Persistence\\Mini-Moodle.Persistence.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.persistence\\repositories\\courseservice\\implementation\\coursecommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B2E8C-C963-490C-8114-5D014F926A2F}|..\\Mini-Moodle.Persistence\\Mini-Moodle.Persistence.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.persistence\\repositories\\courseservice\\interfaces\\icoursecommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\courses\\commands\\deletecourse\\coursedeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\assignments\\commands\\deleteassignment\\assignmentdeletecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B2E8C-C963-490C-8114-5D014F926A2F}|..\\Mini-Moodle.Persistence\\Mini-Moodle.Persistence.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.persistence\\repositories\\assignmentservice\\interfaces\\iassignmentcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B2E8C-C963-490C-8114-5D014F926A2F}|..\\Mini-Moodle.Persistence\\Mini-Moodle.Persistence.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.persistence\\repositories\\assignmentservice\\implementation\\assignmentcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\assignments\\commands\\deleteassignment\\assignmentdeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\resulthandler\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:resulthandler\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\controllers\\v1\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:controllers\\v1\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\mini-moodle.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:mini-moodle.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\mini-moodle.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:mini-moodle.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\users\\queries\\getallusersubmissions\\usergetsubmissionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B2E8C-C963-490C-8114-5D014F926A2F}|..\\Mini-Moodle.Persistence\\Mini-Moodle.Persistence.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.persistence\\repositories\\userservice\\implementation\\userqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\users\\queries\\getallusersubmissions\\usergetsubmissionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\submissions\\queries\\getbyidsubmission\\submissiongetbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\assignments\\queries\\getbyidassignment\\assignmentgetbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\assignments\\queries\\getbyidassignment\\assignmentgetbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\assignments\\queries\\getallassignments\\assignmentgetallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\courses\\queries\\getbyidcourse\\coursegetbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\courses\\queries\\getbyidcourse\\coursegetbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\courses\\queries\\getallcourses\\coursegetallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\assignments\\queries\\getallassignments\\assignmentgetallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\filters\\actionfiltervalidatequeryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:filters\\actionfiltervalidatequeryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\controllers\\v1\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:controllers\\v1\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\courses\\queries\\getallcourses\\coursegetallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\dependensy_injection\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:dependensy_injection\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\lessons\\commands\\uploadlessonvideo\\uploadvideocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\lessons\\commands\\uploadlessonvideo\\uploadvideocommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\submissions\\commands\\uploadvideosubmisson\\submissionuploadfilescommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\grades\\creategrade\\gradecreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\automapper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:automapper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\courses\\commands\\updatecourse\\courseupdatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\submissions\\commands\\createsubmisson\\submissioncreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\courses\\commands\\createcourse\\coursecreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06285595-77D3-47DB-8D88-3DB1F27EA040}|..\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\mini-moodle.application\\application\\accounts\\commands\\login\\accountlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\controllers\\v1\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:controllers\\v1\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\controllers\\v1\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:controllers\\v1\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\controllers\\v1\\submissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:controllers\\v1\\submissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\controllers\\v1\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:controllers\\v1\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\controllers\\v1\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:controllers\\v1\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250421092343_RenemeGradeColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|c:\\users\\vital\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\u002Bdll\\project\\mini-moodle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A5D8462-1F28-4891-872C-CAC36F3789D1}|Mini-Moodle.csproj|solutionrelative:mini-moodle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419155145_AddNewFeature2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419155036_AddNewFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154823_AddNewFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154654_AddNewForeignKey2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154536_AddNewForeignKey2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154252_AddNewForeignKey2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419153751_AddNewForeignKey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250417192635_AddNewTableDifficalty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250415135359_AllowsNullInVideoUrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Services\\ConfigureServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Repositories\\JwtToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250407194831_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u0434\u0456\u0430\u043D\u0430\\desktop\\mini-moodle.application\\mini-moodle.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubmissionCommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\SubmissonService\\Implementation\\SubmissionCommandRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Persistence\\Repositories\\SubmissonService\\Implementation\\SubmissionCommandRepository.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\SubmissonService\\Implementation\\SubmissionCommandRepository.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Persistence\\Repositories\\SubmissonService\\Implementation\\SubmissionCommandRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:06:25.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubmissionQueryRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\SubmissonService\\Implementation\\SubmissionQueryRepositories.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Persistence\\Repositories\\SubmissonService\\Implementation\\SubmissionQueryRepositories.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\SubmissonService\\Implementation\\SubmissionQueryRepositories.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Persistence\\Repositories\\SubmissonService\\Implementation\\SubmissionQueryRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:00:50.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubmissionGetByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Submissions\\Queries\\GetByIdSubmission\\SubmissionGetByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Submissions\\Queries\\GetByIdSubmission\\SubmissionGetByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Submissions\\Queries\\GetByIdSubmission\\SubmissionGetByIdQueryHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Submissions\\Queries\\GetByIdSubmission\\SubmissionGetByIdQueryHandler.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAEQAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:00:32.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseDeleteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Courses\\Commands\\DeleteCourse\\CourseDeleteCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Courses\\Commands\\DeleteCourse\\CourseDeleteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Courses\\Commands\\DeleteCourse\\CourseDeleteCommandHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Courses\\Commands\\DeleteCourse\\CourseDeleteCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:26:50.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LessonGetByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Lessons\\Queries\\GetByIdLesson\\LessonGetByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Lessons\\Queries\\GetByIdLesson\\LessonGetByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Lessons\\Queries\\GetByIdLesson\\LessonGetByIdQueryHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Lessons\\Queries\\GetByIdLesson\\LessonGetByIdQueryHandler.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAD0AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:51:50.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LessonGetAllQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Lessons\\Queries\\GetAllLessons\\LessonGetAllQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Lessons\\Queries\\GetAllLessons\\LessonGetAllQueryHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Lessons\\Queries\\GetAllLessons\\LessonGetAllQueryHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Lessons\\Queries\\GetAllLessons\\LessonGetAllQueryHandler.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:45:27.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubmissionDeleteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\DeleteSubmisson\\SubmissionDeleteCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\DeleteSubmisson\\SubmissionDeleteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\DeleteSubmisson\\SubmissionDeleteCommandHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\DeleteSubmisson\\SubmissionDeleteCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:36:06.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubmissionUploadFilesCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\UploadVideoSubmisson\\SubmissionUploadFilesCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\UploadVideoSubmisson\\SubmissionUploadFilesCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\UploadVideoSubmisson\\SubmissionUploadFilesCommandHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\UploadVideoSubmisson\\SubmissionUploadFilesCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:59:24.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SubmissionDeleteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\DeleteSubmisson\\SubmissionDeleteCommand.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\DeleteSubmisson\\SubmissionDeleteCommand.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\DeleteSubmisson\\SubmissionDeleteCommand.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\DeleteSubmisson\\SubmissionDeleteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:36:37.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISubmissionCommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\SubmissonService\\Interfaces\\ISubmissionCommandRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Persistence\\Repositories\\SubmissonService\\Interfaces\\ISubmissionCommandRepository.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\SubmissonService\\Interfaces\\ISubmissionCommandRepository.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Persistence\\Repositories\\SubmissonService\\Interfaces\\ISubmissionCommandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:36:45.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LessonDeleteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Lessons\\Commands\\DeleteLesson\\LessonDeleteCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Lessons\\Commands\\DeleteLesson\\LessonDeleteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Lessons\\Commands\\DeleteLesson\\LessonDeleteCommandHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Lessons\\Commands\\DeleteLesson\\LessonDeleteCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:32:27.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Infrastructure\\FileStorageServices\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Infrastructure\\FileStorageServices\\FileStorageService.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Infrastructure\\FileStorageServices\\FileStorageService.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Infrastructure\\FileStorageServices\\FileStorageService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAArwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:13:04.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ILessonCommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\LessonService\\Interfaces\\ILessonCommandRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Persistence\\Repositories\\LessonService\\Interfaces\\ILessonCommandRepository.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\LessonService\\Interfaces\\ILessonCommandRepository.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Persistence\\Repositories\\LessonService\\Interfaces\\ILessonCommandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:33:35.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LessonDeleteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Lessons\\Commands\\DeleteLesson\\LessonDeleteCommand.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Lessons\\Commands\\DeleteLesson\\LessonDeleteCommand.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Lessons\\Commands\\DeleteLesson\\LessonDeleteCommand.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Lessons\\Commands\\DeleteLesson\\LessonDeleteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:32:41.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICourseCommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\CourseService\\Interfaces\\ICourseCommandRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Persistence\\Repositories\\CourseService\\Interfaces\\ICourseCommandRepository.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\CourseService\\Interfaces\\ICourseCommandRepository.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Persistence\\Repositories\\CourseService\\Interfaces\\ICourseCommandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:30:48.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourseCommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\CourseService\\Implementation\\CourseCommandRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Persistence\\Repositories\\CourseService\\Implementation\\CourseCommandRepository.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\CourseService\\Implementation\\CourseCommandRepository.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Persistence\\Repositories\\CourseService\\Implementation\\CourseCommandRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:28:22.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LessonCommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\LessonService\\Implementation\\LessonCommandRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Persistence\\Repositories\\LessonService\\Implementation\\LessonCommandRepository.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\LessonService\\Implementation\\LessonCommandRepository.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Persistence\\Repositories\\LessonService\\Implementation\\LessonCommandRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:03:58.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CourseDeleteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Courses\\Commands\\DeleteCourse\\CourseDeleteCommand.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Courses\\Commands\\DeleteCourse\\CourseDeleteCommand.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Courses\\Commands\\DeleteCourse\\CourseDeleteCommand.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Courses\\Commands\\DeleteCourse\\CourseDeleteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:27:58.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAssignmentCommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\AssignmentService\\Interfaces\\IAssignmentCommandRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Persistence\\Repositories\\AssignmentService\\Interfaces\\IAssignmentCommandRepository.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\AssignmentService\\Interfaces\\IAssignmentCommandRepository.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Persistence\\Repositories\\AssignmentService\\Interfaces\\IAssignmentCommandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:22:28.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssignmentDeleteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Assignments\\Commands\\DeleteAssignment\\AssignmentDeleteCommand.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Assignments\\Commands\\DeleteAssignment\\AssignmentDeleteCommand.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Assignments\\Commands\\DeleteAssignment\\AssignmentDeleteCommand.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Assignments\\Commands\\DeleteAssignment\\AssignmentDeleteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:22:01.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AssignmentDeleteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Assignments\\Commands\\DeleteAssignment\\AssignmentDeleteCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Assignments\\Commands\\DeleteAssignment\\AssignmentDeleteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Assignments\\Commands\\DeleteAssignment\\AssignmentDeleteCommandHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Assignments\\Commands\\DeleteAssignment\\AssignmentDeleteCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:22:00.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssignmentCommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\AssignmentService\\Implementation\\AssignmentCommandRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Persistence\\Repositories\\AssignmentService\\Implementation\\AssignmentCommandRepository.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\AssignmentService\\Implementation\\AssignmentCommandRepository.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Persistence\\Repositories\\AssignmentService\\Implementation\\AssignmentCommandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:02:10.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Mini-Moodle",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Mini-Moodle.csproj",
+              "RelativeDocumentMoniker": "Mini-Moodle.csproj",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Mini-Moodle.csproj",
+              "RelativeToolTip": "Mini-Moodle.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-02T10:45:15.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserGetSubmissionQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Users\\Queries\\GetAllUserSubmissions\\UserGetSubmissionQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Users\\Queries\\GetAllUserSubmissions\\UserGetSubmissionQueryHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Users\\Queries\\GetAllUserSubmissions\\UserGetSubmissionQueryHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Users\\Queries\\GetAllUserSubmissions\\UserGetSubmissionQueryHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:09:41.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Mini-Moodle.http",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Mini-Moodle.http",
+              "RelativeDocumentMoniker": "Mini-Moodle.http",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Mini-Moodle.http",
+              "RelativeToolTip": "Mini-Moodle.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-06T08:20:46.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T07:56:09.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T08:20:50.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T20:00:12.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Controllers\\v1\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\v1\\AccountController.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Controllers\\v1\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\v1\\AccountController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:30:27.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\ResultHandler\\OperationResult.cs",
+              "RelativeDocumentMoniker": "ResultHandler\\OperationResult.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\ResultHandler\\OperationResult.cs",
+              "RelativeToolTip": "ResultHandler\\OperationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:00:00.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:48:02.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AssignmentGetByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Assignments\\Queries\\GetByIdAssignment\\AssignmentGetByIdQuery.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Assignments\\Queries\\GetByIdAssignment\\AssignmentGetByIdQuery.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Assignments\\Queries\\GetByIdAssignment\\AssignmentGetByIdQuery.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Assignments\\Queries\\GetByIdAssignment\\AssignmentGetByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:44:03.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AssignmentGetByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Assignments\\Queries\\GetByIdAssignment\\AssignmentGetByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Assignments\\Queries\\GetByIdAssignment\\AssignmentGetByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Assignments\\Queries\\GetByIdAssignment\\AssignmentGetByIdQueryHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Assignments\\Queries\\GetByIdAssignment\\AssignmentGetByIdQueryHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:39:53.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SubmissionGetByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Submissions\\Queries\\GetByIdSubmission\\SubmissionGetByIdQuery.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Submissions\\Queries\\GetByIdSubmission\\SubmissionGetByIdQuery.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Submissions\\Queries\\GetByIdSubmission\\SubmissionGetByIdQuery.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Submissions\\Queries\\GetByIdSubmission\\SubmissionGetByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:09:21.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserGetSubmissionQuery.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Users\\Queries\\GetAllUserSubmissions\\UserGetSubmissionQuery.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Users\\Queries\\GetAllUserSubmissions\\UserGetSubmissionQuery.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Users\\Queries\\GetAllUserSubmissions\\UserGetSubmissionQuery.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Users\\Queries\\GetAllUserSubmissions\\UserGetSubmissionQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:09:40.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserQueryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\UserService\\Implementation\\UserQueryRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Persistence\\Repositories\\UserService\\Implementation\\UserQueryRepository.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Persistence\\Repositories\\UserService\\Implementation\\UserQueryRepository.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Persistence\\Repositories\\UserService\\Implementation\\UserQueryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:18:56.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AssignmentGetAllQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Assignments\\Queries\\GetAllAssignments\\AssignmentGetAllQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Assignments\\Queries\\GetAllAssignments\\AssignmentGetAllQueryHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Assignments\\Queries\\GetAllAssignments\\AssignmentGetAllQueryHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Assignments\\Queries\\GetAllAssignments\\AssignmentGetAllQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:28:12.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CourseGetByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Courses\\Queries\\GetByIdCourse\\CourseGetByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Courses\\Queries\\GetByIdCourse\\CourseGetByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Courses\\Queries\\GetByIdCourse\\CourseGetByIdQueryHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Courses\\Queries\\GetByIdCourse\\CourseGetByIdQueryHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:43:43.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CourseGetByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Courses\\Queries\\GetByIdCourse\\CourseGetByIdQuery.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Courses\\Queries\\GetByIdCourse\\CourseGetByIdQuery.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Courses\\Queries\\GetByIdCourse\\CourseGetByIdQuery.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Courses\\Queries\\GetByIdCourse\\CourseGetByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:43:40.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CourseGetAllQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Courses\\Queries\\GetAllCourses\\CourseGetAllQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Courses\\Queries\\GetAllCourses\\CourseGetAllQueryHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Courses\\Queries\\GetAllCourses\\CourseGetAllQueryHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Courses\\Queries\\GetAllCourses\\CourseGetAllQueryHandler.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwEQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:38:24.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AssignmentGetAllQuery.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Assignments\\Queries\\GetAllAssignments\\AssignmentGetAllQuery.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Assignments\\Queries\\GetAllAssignments\\AssignmentGetAllQuery.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Assignments\\Queries\\GetAllAssignments\\AssignmentGetAllQuery.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Assignments\\Queries\\GetAllAssignments\\AssignmentGetAllQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:28:13.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Controllers\\v1\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\v1\\CourseController.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Controllers\\v1\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\v1\\CourseController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADgvysAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:00:34.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SubmissionUploadFilesCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\UploadVideoSubmisson\\SubmissionUploadFilesCommandValidator.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\UploadVideoSubmisson\\SubmissionUploadFilesCommandValidator.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\UploadVideoSubmisson\\SubmissionUploadFilesCommandValidator.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\UploadVideoSubmisson\\SubmissionUploadFilesCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:04:09.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ActionFilterValidateQueryParameters.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Filters\\ActionFilterValidateQueryParameters.cs",
+              "RelativeDocumentMoniker": "Filters\\ActionFilterValidateQueryParameters.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Filters\\ActionFilterValidateQueryParameters.cs",
+              "RelativeToolTip": "Filters\\ActionFilterValidateQueryParameters.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADgvyUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:13:49.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ServiceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Dependensy_Injection\\ServiceConfiguration.cs",
+              "RelativeDocumentMoniker": "Dependensy_Injection\\ServiceConfiguration.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Dependensy_Injection\\ServiceConfiguration.cs",
+              "RelativeToolTip": "Dependensy_Injection\\ServiceConfiguration.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAADgv6IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:06:37.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CourseGetAllQuery.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Courses\\Queries\\GetAllCourses\\CourseGetAllQuery.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Courses\\Queries\\GetAllCourses\\CourseGetAllQuery.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Courses\\Queries\\GetAllCourses\\CourseGetAllQuery.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Courses\\Queries\\GetAllCourses\\CourseGetAllQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:42:21.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UploadVideoCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Lessons\\Commands\\UploadLessonVideo\\UploadVideoCommandValidator.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Lessons\\Commands\\UploadLessonVideo\\UploadVideoCommandValidator.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Lessons\\Commands\\UploadLessonVideo\\UploadVideoCommandValidator.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Lessons\\Commands\\UploadLessonVideo\\UploadVideoCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:04:41.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UploadVideoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Lessons\\Commands\\UploadLessonVideo\\UploadVideoCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Lessons\\Commands\\UploadLessonVideo\\UploadVideoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Lessons\\Commands\\UploadLessonVideo\\UploadVideoCommandHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Lessons\\Commands\\UploadLessonVideo\\UploadVideoCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:06:00.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GradeCreateCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Grades\\CreateGrade\\GradeCreateCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Grades\\CreateGrade\\GradeCreateCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Grades\\CreateGrade\\GradeCreateCommandHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Grades\\CreateGrade\\GradeCreateCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:58:11.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SubmissionCreateCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\CreateSubmisson\\SubmissionCreateCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\CreateSubmisson\\SubmissionCreateCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\CreateSubmisson\\SubmissionCreateCommandHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Submissions\\Commands\\CreateSubmisson\\SubmissionCreateCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:54:47.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CourseUpdateCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Courses\\Commands\\UpdateCourse\\CourseUpdateCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Courses\\Commands\\UpdateCourse\\CourseUpdateCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Courses\\Commands\\UpdateCourse\\CourseUpdateCommandHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Courses\\Commands\\UpdateCourse\\CourseUpdateCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:53:14.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CourseCreateCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Courses\\Commands\\CreateCourse\\CourseCreateCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Courses\\Commands\\CreateCourse\\CourseCreateCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Courses\\Commands\\CreateCourse\\CourseCreateCommandHandler.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Courses\\Commands\\CreateCourse\\CourseCreateCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADgvxYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:43:46.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AutomapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Automapper\\AutomapperProfiles.cs",
+              "RelativeDocumentMoniker": "Automapper\\AutomapperProfiles.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Automapper\\AutomapperProfiles.cs",
+              "RelativeToolTip": "Automapper\\AutomapperProfiles.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:00:25.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:12:41.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\AssemblyReference.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:26:54.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Mini-Moodle.Application",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Project\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj",
+              "RelativeToolTip": "..\\..\\Project\\Mini-Moodle.Application\\Mini-Moodle.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T04:03:54.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AccountLoginCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Accounts\\Commands\\Login\\AccountLoginCommand.cs",
+              "RelativeDocumentMoniker": "..\\Mini-Moodle.Application\\Application\\Accounts\\Commands\\Login\\AccountLoginCommand.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Mini-Moodle.Application\\Application\\Accounts\\Commands\\Login\\AccountLoginCommand.cs",
+              "RelativeToolTip": "..\\Mini-Moodle.Application\\Application\\Accounts\\Commands\\Login\\AccountLoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:49:40.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-04-19T11:09:46.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Controllers\\v1\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\v1\\AssignmentController.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Controllers\\v1\\AssignmentController.cs",
+              "RelativeToolTip": "Controllers\\v1\\AssignmentController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAABBwFkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:10:01.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Controllers\\v1\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\v1\\UserController.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Controllers\\v1\\UserController.cs",
+              "RelativeToolTip": "Controllers\\v1\\UserController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAABBwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:02:24.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SubmissionController.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Controllers\\v1\\SubmissionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\v1\\SubmissionController.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Controllers\\v1\\SubmissionController.cs",
+              "RelativeToolTip": "Controllers\\v1\\SubmissionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:01:59.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Controllers\\v1\\LessonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\v1\\LessonController.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Controllers\\v1\\LessonController.cs",
+              "RelativeToolTip": "Controllers\\v1\\LessonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:10:01.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Controllers\\v1\\GradeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\v1\\GradeController.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Controllers\\v1\\GradeController.cs",
+              "RelativeToolTip": "Controllers\\v1\\GradeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:51:23.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20250421092343_RenemeGradeColumn.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250421092343_RenemeGradeColumn.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250421092343_RenemeGradeColumn.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250421092343_RenemeGradeColumn.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250421092343_RenemeGradeColumn.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:23:44.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Mini-Moodle.csproj",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Mini-Moodle.csproj",
+              "RelativeDocumentMoniker": "Mini-Moodle.csproj",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\u002BDll\\Project\\Mini-Moodle.csproj",
+              "RelativeToolTip": "Mini-Moodle.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T18:13:11.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250419155145_AddNewFeature2.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419155145_AddNewFeature2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419155145_AddNewFeature2.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419155145_AddNewFeature2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419155145_AddNewFeature2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:51:45.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20250419155036_AddNewFeature.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419155036_AddNewFeature.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419155036_AddNewFeature.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419155036_AddNewFeature.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419155036_AddNewFeature.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:50:36.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20250419154823_AddNewFeature.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154823_AddNewFeature.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154823_AddNewFeature.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154823_AddNewFeature.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154823_AddNewFeature.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:48:24.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250419154654_AddNewForeignKey2.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154654_AddNewForeignKey2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154654_AddNewForeignKey2.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154654_AddNewForeignKey2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154654_AddNewForeignKey2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:46:54.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250419154536_AddNewForeignKey2.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154536_AddNewForeignKey2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154536_AddNewForeignKey2.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154536_AddNewForeignKey2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154536_AddNewForeignKey2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:45:37.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250419154252_AddNewForeignKey2.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154252_AddNewForeignKey2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154252_AddNewForeignKey2.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154252_AddNewForeignKey2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419154252_AddNewForeignKey2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:42:52.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250419153751_AddNewForeignKey.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419153751_AddNewForeignKey.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419153751_AddNewForeignKey.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419153751_AddNewForeignKey.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle \u2013 \u043A\u043E\u043F\u0456\u044F\\Migrations\\20250419153751_AddNewForeignKey.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:37:52.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20250417192635_AddNewTableDifficalty.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250417192635_AddNewTableDifficalty.cs",
+              "RelativeDocumentMoniker": "..\\..\\Mini-Moodle\\Migrations\\20250417192635_AddNewTableDifficalty.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250417192635_AddNewTableDifficalty.cs",
+              "RelativeToolTip": "..\\..\\Mini-Moodle\\Migrations\\20250417192635_AddNewTableDifficalty.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:26:36.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20250415135359_AllowsNullInVideoUrl.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250415135359_AllowsNullInVideoUrl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250415135359_AllowsNullInVideoUrl.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250415135359_AllowsNullInVideoUrl.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\Mini-Moodle\\Migrations\\20250415135359_AllowsNullInVideoUrl.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:53:59.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAUwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-10T16:48:33.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Services\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Services\\ConfigureServices.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Services\\ConfigureServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Services\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:30:35.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "JwtToken.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Repositories\\JwtToken.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Repositories\\JwtToken.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Repositories\\JwtToken.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0414\u0406\u0410\u041D\u0410\\Desktop\\LerningAllAboutWebApi\\Repositories\\JwtToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:13:55.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20250407194831_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250407194831_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\Mini-Moodle\\Migrations\\20250407194831_Initial.cs",
+              "ToolTip": "C:\\Users\\vital\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mini-Moodle\\Migrations\\20250407194831_Initial.cs",
+              "RelativeToolTip": "..\\..\\Mini-Moodle\\Migrations\\20250407194831_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:48:31.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

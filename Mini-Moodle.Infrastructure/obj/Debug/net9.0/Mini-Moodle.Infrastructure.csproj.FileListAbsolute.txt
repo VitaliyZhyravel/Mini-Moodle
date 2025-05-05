@@ -1,0 +1,15 @@
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Infrastructure\obj\Debug\net9.0\Mini-Moodle.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Infrastructure\obj\Debug\net9.0\Mini-Moodle.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Infrastructure\obj\Debug\net9.0\Mini-Moodle.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Infrastructure\obj\Debug\net9.0\Mini-Moodle.Infrastructure.AssemblyInfo.cs
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Infrastructure\obj\Debug\net9.0\Mini-Moodle.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Infrastructure\bin\Debug\net9.0\Mini-Moodle.Infrastructure.deps.json
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Infrastructure\bin\Debug\net9.0\Mini-Moodle.Infrastructure.dll
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Infrastructure\bin\Debug\net9.0\Mini-Moodle.Infrastructure.pdb
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Infrastructure\bin\Debug\net9.0\Mini-Moodle.Domain.dll
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Infrastructure\bin\Debug\net9.0\Mini-Moodle.Domain.pdb
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Infrastructure\obj\Debug\net9.0\Mini-Moo.144E4924.Up2Date
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Infrastructure\obj\Debug\net9.0\Mini-Moodle.Infrastructure.dll
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Infrastructure\obj\Debug\net9.0\refint\Mini-Moodle.Infrastructure.dll
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Infrastructure\obj\Debug\net9.0\Mini-Moodle.Infrastructure.pdb
+C:\Users\vital\OneDrive\Рабочий стол\Project+Dll\Mini-Moodle.Infrastructure\obj\Debug\net9.0\ref\Mini-Moodle.Infrastructure.dll
